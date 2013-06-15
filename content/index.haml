@@ -1,0 +1,27 @@
+---
+title: Welcome
+heading: What has the ALP done for me?
+changefreq: monthly
+priority: 0.9
+---
+:scss
+  div.hero-unit > h2 {
+    padding-top: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 75px;
+  }
+.row-fluid
+  #achievements.carousel.slide
+    %ol.carousel-indicators
+      -achievements_with_photos.each_with_index do |ach, i|
+        %li{:class => ((i == 0) ? 'active' : nil), :data => {:target => '#achievements', :'slide-to' => i}}
+    .carousel-inner
+      -achievements_with_photos.each_with_index do |ach, i|
+        .item{:class => ((i == 0) ? 'active' : nil)}
+          .achievement-text.hero-unit
+            %h2 #{ach[:what]}
+          .carousel-caption
+            %p #{ach[:benefit]} <small><a href="#{ach[:url]}">more info</a></small>
+    %a.carousel-control.left(href="#achievements" data-slide="prev") &lsaquo;
+    %a.carousel-control.right(href="#achievements" data-slide="next") &rsaquo;
