@@ -14,10 +14,10 @@ priority: 0.9
 .row-fluid
   #achievements.carousel.slide
     %ol.carousel-indicators
-      -achievements_with_photos.each_with_index do |ach, i|
+      -achievements.each_with_index do |ach, i|
         %li{:class => ((i == 0) ? 'active' : nil), :data => {:target => '#achievements', :'slide-to' => i}}
     .carousel-inner
-      -achievements_with_photos.each_with_index do |ach, i|
+      -achievements.each_with_index do |ach, i|
         .item{:class => ((i == 0) ? 'active' : nil)}
           .achievement-text.hero-unit
             %h2 #{ach[:what]}
