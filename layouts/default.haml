@@ -15,7 +15,7 @@
     -keywords = "#{config[:keywords]}, #{@item[:keywords]}"
     -generator = "nanoc version #{Nanoc::VERSION}"
     -url = "#{config[:base_url]}#{(@item.path === '/') ? '/index.html' : @item.path}"
-    -title = "#{config[:site_name]}: #{@item[:title]}"
+    -title = "#{@item[:heading]}"
     -image = (@item[:image] == nil || @item[:image] == '' ? nil : "#{config[:base_url]}/images/#{@item[:image]}")
     %meta(charset="utf-8")
     -# core HTML 5 meta tags.
@@ -24,7 +24,7 @@
     %meta(name="description" content=description)
     %meta(name="generator" content=generator)
     %meta(name="keywords" content=keywords)
-    -# Facebook meta tags.
+    -# Facebook OpenGraph meta tags.
     %meta(property="og:url" content=url)
     %meta(property="og:site_name" content= site_name)
     %meta(property="og:type" content='website')
@@ -32,7 +32,8 @@
     -if image
       %meta(property="og:image" content=image)
     %meta(property="og:description" content=description)
-
+    -# twitter card meta tags
+    %meta(property="twitter:card" content="summary")
     -# some IE fiddles.
     /[if IE] <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     %meta(name='viewport' content='width=device-width, initial-scale=1.0')
@@ -63,6 +64,13 @@
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
         ga('create', '#{config[:ga_code]}', '#{config[:base_domain]}');
         ga('send', 'pageview');
+        (function(d, s, id) {
+          var js, fjs = d.getElementsByTagName(s)[0];
+          if (d.getElementById(id)) return;
+          js = d.createElement(s); js.id = id;
+          js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+          fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));
       }
       $(document).ready(function(){
         $('ul.nav > li > a[href="' + document.location.pathname + '"]').parent().addClass('active');
@@ -70,15 +78,36 @@
     %link(href='/bootstrap/css/bootstrap-responsive.min.css' media='screen' rel='stylesheet')
     %link(href='/css/fontawesome.css' type='text/css' rel='stylesheet')
   %body
-    #wrap
-      .container(style="margin-top: 0;margin-bottom: 0;")<
-        .masthead<
-          =navigation
-          %h2.text-info #{config[:site_name]}
-        #content
-          =yield
-      #push
+    #fb-root
+    .container(style="margin-top: 0;margin-bottom: 0;")<
+      .masthead<
+        =navigation
+        %h2.text-info #{title}
+      #content
+        =yield
+      #social.row-fluid
+        .fb-like{:data => {:href => url, :send => 'false', :width => '250', :'show-faces' => 'false', :font => 'tahoma'}}
+        %a.twitter-share-button{:href => "https://twitter.com/share", :data => {:hashtags => "auspol"}} Tweet
+        .g-plusone{:data => {:size=>"medium"}}
+        %a(href="http://www.tumblr.com/share" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:129px; height:20px; background:url('http://platform.tumblr.com/v1/share_3.png') top left no-repeat transparent;") Share on Tumblr
     #footer
+      %hr
       .container(style="margin-top: 0;margin-bottom: 0;")<
-        %p.muted.credit<
-          %small For more information see <a href="https://www.facebook.com/pages/Tony-Abbott-will-never-be-prime-minister/274330505796">Tony Abbott Will Never Be Prime Minister</a>
+        .row-fluid
+          .span6
+            %a.btn.btn-primary(href="https://www.facebook.com/pages/Tony-Abbott-will-never-be-prime-minister/274330505796") Tony Abbott Will Never Be Prime Minister
+          .span6
+            %p.muted
+              This is not political advertising, just a collection of facts, and associated editorial.
+              It has not been endorsed or authorised by anyone.
+:javascript
+  if ("#{config[:base_url]}" === document.location.origin) {
+    window.___gcfg = {lang: 'en-GB'};
+    (function() {
+      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+      po.src = 'https://apis.google.com/js/plusone.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+    })();
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+  }
+%script(src="http://platform.tumblr.com/v1/share.js")
