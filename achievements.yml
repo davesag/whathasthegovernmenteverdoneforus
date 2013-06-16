@@ -185,10 +185,11 @@
     missing out.
   :url: http://minister.innovation.gov.au/craigemerson/mediareleases/pages/morekidsatuniversityandteachertraininggetsaboost.aspx
 - :code: computers
-  :what: A computer for every year 9-12 student
+  :what: A computer for every year 9 — 12 student
   :benefit: |-
     It's impossible to overestimate the impact computers have had on education. Your kids
-    deserve properly equipped schools and classrooms.
+    deserve properly equipped schools and classrooms. This deal has expired now for grade
+    9 kids, but it was a fabulous boost at the time.
   :url: http://deewr.gov.au/digital-education-advisory-group-report
 - :code: MySchool
   :what: Established MySchool
@@ -312,4 +313,229 @@
     A nationally coordinated approach to the planning and development of port
     infrastructure is essential for Australia's future economic growth.
   :url: http://www.ntc.gov.au/viewpage.aspx?documentid=1967
-  
+- :code: landfreight
+  :what: Developed a National Land Freight Strategy
+  :benefit: |-
+    Australia is a large land mass far from its international markets. The ability
+    to efficiently and reliably move goods through supply chains, particularly to
+    and from these markets, substantially determines our productivity and
+    economic performance.
+  :url: http://www.infrastructureaustralia.gov.au/freight/
+- :code: aviationwhitepaper
+  :what: Created Australia's first ever Aviation White Paper
+  :benefit: |-
+    The first ever comprehensive aviation policy statement issued by any Australian
+    government, bringing together all strands of aviation policy into a single,
+    forward-looking document providing planning, regulatory and investment certainty
+    for the aviation industry out to 2020 and beyond.
+  :url: http://www.infrastructure.gov.au/aviation/nap/
+- :code: revship
+  :what: Revitalised Australian Shipping
+  :benefit: |-
+    The most significant overhaul of our coastal trading arrangements since they were
+    introduced early last century, making transparent the decision making processes,
+    which determine a foreign vessel's participation in Australian domestic shipping.
+  :url: http://www.minister.infrastructure.gov.au/aa/speeches/2012/AS14_2012.aspx
+- :code: redreg
+  :what: Reduced transport regulators from 23 to 3, saving $30b over 20 years
+  :benefit: |-
+    The Australian road transport industry employs more than 220,000 people and is 
+    a vital link between our factories and our cities, between our farms and mines,
+    and our ports.
+  :url: http://anthonyalbanese.com.au/speech-to-the-national-conference-of-the-australian-livestock-and-rural-transport-association-the-pavilion-newcastle-jockey-club
+- :code: ncis
+  :what: Introduced the National Infrastructure Construction Schedule
+  :benefit: |-
+    The first-ever national government infrastructure project pipeline. Aa collaborative
+    effort between the Commonwealth, state and territory governments,
+    and local government, the NICS provides industry with information on major
+    infrastructure projects committed by governments across the country in a
+    dynamic, easy-to-use manner.
+  :url: https://www.nics.gov.au
+- :code: oecdinf
+  :what: |-
+    Australia has moved from 20<sup>th</sup> in 2007, to 2<sup>nd</sup> in the
+    OECD infrastructure ranking
+  :benefit: |-
+    While other nations are suffering from their failures to invest in appropriate
+    infrastructure, Australia has been future-proofing itself now, using the procceds of
+    its mining boom, to ensure it has long-term viability.
+  :url: http://www.logisticscareer.com.au/archived-news/australia-a-big-infrastructure-spender-finds-oecd
+- :code: iimoty
+  :what: Awarded International Infrastructure Minister of the Year (2012 Albanese)
+  :benefit: |-
+    International acclaim for our Government is something all Australians can be proud of.
+  :url: https://www.infrastructureinvestor.com/News_And_Analysis/2012/September/News/Albanese_is_our_Minister_of_the_Year/
+- :code: itoty
+  :what: Awarded International Finance Minister of the Year (2011 Swan)
+  :benefit: |-
+    International acclaim for our Government is something all Australians can be proud of.
+    Under Swan's watch the nation avoided the worst economic meltdown in the world's history.
+  :url: http://www.euromoney.com/Article/2897778/Finance-minister-of-the-year-2011-Swan-confounds-his-domestic-sceptics.html
+- :code: dumping
+  :what: 'Introduced Anti-dumping and countervailing system reforms'
+  :benefit: |-
+    Australia has an export diven economy, and an anti—dumping system is the only means
+    by which unfair market behaviour can be deterred at the global level.
+  :url: http://www.customs.gov.au/anti-dumping/streamlining.asp
+- :code: householdassist
+  :what: Legislated Household Assistance Package
+  :benefit: |-
+    This prodides going increases to regular government payments for families, seniors,
+    and individuals to commence between March 2013 and January 2014; improving the lives
+    of tens of thousands of Australians.
+  :url: http://www.fahcsia.gov.au/household-assistance-package
+- :code: schoolkidsbonus
+  :what: Introduced the School Kids Bonus
+  :benefit: |-
+    Helps struggling families afford their education costs. The benfits are
+    automatically paid in January and July each year to eligible families and students
+    with no need to make a claim.
+  :url: http://www.humanservices.gov.au/customer/services/schoolkids-bonus
+- :code: childcareup
+  :what: Increased the Childcare rebate
+  :benefit: |-
+    Working families sometimes need help securing appropriate childcare, and this
+    rebate helps them do that by coverin up to 50% of your out of pocket child care
+    expenses, up to a maximum amount per child per year, over and above any amount
+    you already receive from Child Care Benefit and/or Jobs, Education and Training (JET)
+    Child Care Fee Assistance.
+  :url: http://www.humanservices.gov.au/customer/services/centrelink/child-care-rebate
+- :code: socialhousing
+  :what: Allocated $6b to Social Housing (20,000 homes)
+  :benefit: |-
+    The Social Housing Initiative serves both to stimulate
+    the economy, and create affordable housing for some of our least advantaged citizens.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/social-housing-initiative
+- :code: homelessnesssupport
+  :what: Provided $5b to Support for Homelessness
+  :benefit: |-
+    Can you even imagine being homeless? Can you imagine any circumstances that might
+    render you homeless? It's something that can happen to anyone. People who are homeless
+    often find themselves between service systems. They have lost housing, cannot
+    find work, may have chronic health conditions or been victims of repeated abuse or violence.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/publications-articles/homelessness-general/homelessness-a-new-approach
+- :code: affordablerent
+  :what: Established National Rental Affordability Scheme ($4.5b)
+  :benefit: |-
+    A long term commitment by the Australian Government in partnership with the States
+    and Territories, to invest in affordable rental housing for low income families.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/national-rental-affordability-scheme
+- :code: thegap
+  :what: Introduced Closing the Gap to improve the lives of indigenous Australians
+  :benefit: |-
+    Many Indigenous Australians have a good standard of living, but far too many
+    experience unacceptable levels of disadvantage in living standards, life expectancy,
+    education, health, and employment. Life expectancy for Indigenous Australians is
+    lower than the non-Indigenous population by approximately 11.5 years for males and
+    9.7 years for females. This gap must be closed.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/closing-the-gap
+- :code: recon
+  :what: Preparing a pathway for Constitutional recognition of Indigenous Australians
+  :benefit: |-
+    The Australian Constitution is the foundation document for our laws and our
+    government, but is silent on the special place of our first Australians. To build
+    the momentum needed for successful constitutional change, on 13 February 2013,
+    the House of Representatives passed the Aboriginal and Torres Strait Islander
+    Peoples Recognition Bill 2012.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/constitutional-recognition-of-indigenous-australians
+- :code: penionsup
+  :what: Provided the highest pension increase in 100 years
+  :benefit: |-
+    The most recent pension increase took effect from 20 March 2013.
+    It resulted in an increase of $35.80 a fortnight for single pensioners and
+    $54.00 a fortnight for pensioner couples combined on the maximum rate.
+    This new system of indexation, along with the Government’s pension reform boosts,
+    has delivered pension increases of around $207 per fortnight for single pensioners
+    and around $236 per fortnight for pensioner couples combined, since September 2009.
+  :url: http://www.fahcsia.gov.au/our-responsibilities/seniors/benefits-payments/more-pension-increases
+- :code: newjobs900k
+  :what: Created 900,000 new jobs
+  :benefit: |-
+    There are more Australians in work than ever before and our jobs growth is at least
+    twice as fast as any of the major advanced economies. The Government has repeatedly
+    funded programmes that contribute to the creation of new jobs in Australia, allowing
+    the skills of almost all Australians to be properly valued.
+  :url: http://ministers.deewr.gov.au/collins/address-australian-industry-group-personnel-and-ir-conference-canberra
+- :code: jobsboard
+  :what: Established the National Jobs Board
+  :benefit: |-
+    In this highly mobile age it's important to be able to look for work anywhere. The
+    national jobs board allows employers to list jobs, and job-seekers to find them.
+  :url: http://jobsearch.gov.au
+- :code: skillstrainingup
+  :what: Allocated $9b for skills and training over 5 years
+  :benefit: |-
+    Gives more students the opportunity to earn the basic qualifications they need for
+    a decent job in a higher-skills economy, and enables taxpayers to be assured
+    of efficient and effective spending.
+  :url: http://www.startupsmart.com.au/planning/9-billion-overhaul-for-inadequate-skills-training-system/201203195717.html
+- :code: econ
+  :what: Established Enterprise Connect for small business
+  :benefit: |-
+    Offers comprehensive, confidential advice and support to eligible Australian
+    small and medium businesses to help them transform and reach their full potential.
+  :url: http://www.enterpriseconnect.gov.au/Pages/Home.aspx
+- :code: sbcom
+  :what: Appointed Australia’s first Small Business Commissioner
+  :benefit: |-
+    The Commissioner provides information, assistance, advocacy and representation of
+    small business interests within the Australian Government.
+  :url: http://www.innovation.gov.au/SMALLBUSINESS/SMALLBUSINESSCOMMISSIONER/Pages/default.aspx
+- :code: writeoffs
+  :what: Introduced immediate write-off of assets costing less than $6,500 for small businesses
+  :benefit: |-
+    Enables eligible small businesses to write-off depreciating assets costing less than
+    $6,500 in the income year in which they start to use the asset, or have it
+    installed ready for use.
+  :url: http://www.ato.gov.au/content/00286865.htm
+- :code: writeoffcars
+  :what: Introduced $5,000 immediate write-off for Small Business vehicles over $6,500
+  :benefit: |-
+    You can choose to use your small business's capital allowance provisions
+    to calculate the deduction for a motor vehicle costing $6,500 or more that
+    you start to use, or have installed ready for use, for a taxable purpose.
+  :url: http://www.ato.gov.au/content/00307676.htm
+- :code: losscarry
+  :what: Introduced Small business $1m loss carryback for tax rebate from previous year
+  :benefit: |-
+    To help generally profitable small companies going through a temporary downturn
+    the Tax Office now allows them to 'carry back' losses of up to $1 million.
+  :url: http://www.mkttax.com.au/announcements/loss-carry-back-rules-announced
+- :code: consumerlaw
+  :what: Legislated Australian Consumer law
+  :benefit: |-
+    Standardised national laws that address unfair contract terms, guaranteeing
+    consumer rights, product safety,  lay-by agreements, and unsolicited consumer
+    agreements covering door-to-door sales and telephone sales.
+  :url: http://www.consumerlaw.gov.au
+- :code: queenslandrecovery
+  :what: Introduced a national levy to assist Queensland with reconstruction
+  :benefit: |-
+    We were all horrified by the recent floods in Brisbane and other Queensland towns,
+    and sadened by the loss of life that resulted. We all pitched in to help (as Queensland
+    failed to insure itself against the damage), because that's what mates do. Yo, way to go.
+  :url: http://www.pm.gov.au/press-office/rebuilding-after-floods
+- :code: floodstandard
+  :what: Standardised national definition of flood for insurance purposes
+  :benefit: |-
+    We all know insurance companies will do almost anything they can to avoid paying up.
+    Flood damage in particular was loosely defined and inconsistent, which allowed
+    many insurers to skip out on payments. The Government put a stop to that.
+  :url: http://www.niba.com.au/html/40841.cfm
+- :code: tourism2020
+  :what: Created Tourism 2020
+  :benefit: |-
+    Australia's tourism sector has been hit hard by the rise in the dollar, triggered
+    largely by the mining boom. Also much of our tourism infrastructure is aging. All
+    that chince in rural B&Bs springs to mind. Tourism 2020 assists tourism businesses
+    to remain competitive into the future. If it could convince hotels to offer free wifi
+    too, that'd help.
+  :url: http://www.ret.gov.au/tourism/policies/nltts/nltts/Pages/default.aspx
+- :code: hsrail
+  :what: Completed Australia’s first feasibility study on high speed rail
+  :benefit: |-
+    Europe, Russia, Asia, Africa, Latin America and the USA all have comprehensive rail
+    networks, so why don't we? The Government finally decided to take a look at this,
+    and who knows, maybe in 20 years or so, I can get a train to Sydney that doesn't suck.
+  :url: http://www.infrastructure.gov.au/rail/trains/high_speed/index.aspx
