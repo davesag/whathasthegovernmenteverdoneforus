@@ -67,10 +67,12 @@
     for all Australians.
   :url: http://www.fwc.gov.au
 - :code: cleanenergyfuture
-  :what: Established a price on carbon pollution resulting in an 8.6% reduction in emissions from stationary energy since July last year
+  :what: |-
+    Established a price on carbon pollution resulting in an 8.6% reduction in emissions
+    from stationary energy since July last year
   :benefit: |-
     To meet its Kyoto obligations, and to effectively reduce carbon emissions from Australian
-    acitiviy, the Government istituted a price on carbon pollution, to be paid by the nation's
+    activity, the Government instituted a price on carbon pollution, to be paid by the nation's
     top emitters. It also restructured the tax base to ensure that most Australians were not
     financially disadvantaged.
   :url: http://www.cleanenergyfuture.gov.au
@@ -131,11 +133,13 @@
   :what: Introduced Plain packaging of cigarettes
   :benefit: |-
     Smoking cigarettes is one of the worst things you can do for your health. Cigarettes themselves
-    are addictive, and agressively promoted, especially to young people, as being cool. Plain packaging
+    are addictive, and aggressively promoted, especially to young people, as being cool. Plain packaging
     is a bold experiment to try to curb this scourge.
   :url: http://www.health.gov.au/internet/main/publishing.nsf/Content/tobacco-plain
 - :code: equalpay
-  :what: Legislated Equal pay for social & community workers (resulting in them receiving up to 45% pay increases)
+  :what: |-
+    Legislated Equal pay for social & community workers (resulting in them receiving
+    up to 45% pay increases)
   :benefit: |-
     Social workers care for our society's least advantaged people, and they were being paid dismally
     for their fine and difficult work.
@@ -143,7 +147,7 @@
 - :code: carerleave
   :what: Legislated Australia’s first Paid Parental Leave scheme
   :benefit: |-
-    Women and men alike were being forced out of the workforce, simply becuse they, or their
+    Women and men alike were being forced out of the workforce, simply because they, or their
     partner was having a child. This legislation brings Australia into line with other
     first world nations, and is manifestly fairer.
   :url: http://www.fahcsia.gov.au/our-responsibilities/families-and-children/programs-services/paid-parental-leave-scheme
@@ -155,10 +159,10 @@
     Renewable energy is the future, and if we are to continue to prosper we need skin in that game.
   :url: http://www.cleanenergyfuture.gov.au/clean-energy-future/our-plan/clean-energy-australia/#content01
 - :code: murray
-  :what: Legislated Murray/Darling Basin plan (finlly, after one hundred years of trying.)
+  :what: Legislated Murray/Darling Basin plan (finally, after one hundred years of trying.)
   :benefit: |-
     The Murray Darling river system is sick. Use of vital fresh water has been mismanaged
-    for ages. The Murray Darling plan is the first genuine attempt to fix that, for the benefit of
+    for many years. The Murray Darling plan is the first genuine attempt to fix that, for the benefit of
     all Australians.
   :url: http://www.mdba.gov.au/about-mdba/governance/murray-darling-basin-agreement
 - :code: edufund
@@ -169,9 +173,9 @@
 - :code: directelect
   :what: Established direct electoral enrolment
   :benefit: |-
-    Some people simply forget to enrol to vote, and so miss out come election day. But these days
-    the Government uses the data they have on you from other departments to keep the electoral role
-    up to date; saving you time, and ensuring you never miss out.
+    Some people simply forget to enrol to vote, and so miss out come election day.
+    Now the Government uses data from other departments to keep the electoral roll up
+    to date; saving you time, and ensuring you never miss out.
   :url: http://www.aec.gov.au/About_AEC/publications/Fact_Sheets/direct.htm
 - :code: moreuni
   :what: Created 190,000 more University places
@@ -202,7 +206,7 @@
 - :code: NAPLAN
   :what: Established the National Assessment Program for Literacy and Numeracy
   :benefit: |-
-    The NAPLAN provides away for governments, education authorities and schools can
+    The NAPLAN provides a way for governments, education authorities and schools to
     determine whether or not your kids are meeting their vital educational outcomes.
   :url: http://www.nap.edu.au
 - :code: healthup
@@ -264,3 +268,48 @@
     bringing every player in the industry together in a partnership to reshape the industry
     and deliver enduring benefits to all Australians.
   :url: http://www.innovation.gov.au/INDUSTRY/AUTOMOTIVE/INITIATIVESANDASSISTANCE/Pages/default.aspx
+- :code: infrastructureaustralia
+  :what: Created Infrastructure Australia
+  :benefit: |-
+    Infrastructure Australia brings major project developers and Government together to
+    ensure that projects that are federally funded adhere to strict guidelines, and are
+    in line with the nation's priorities.
+  :url: http://www.infrastructureaustralia.gov.au
+- :code: nationbuilding
+  :what: Established Nation Building Program (350 major projects)
+  :benefit: |-
+    The biggest capital works program in Australian history, with huge investment in
+    roads, rail, ports, and many other projects that directly contribute to Australian
+    efficiency and productivity.
+  :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+- :code: roads
+  :what: Doubled Federal Roads budget ($36b) (7,500k of improved roads)
+  :benefit: |-
+    The biggest capital works program in Australian history, doubled the road budget
+    with more than 7,500 km of new and improved roads, targeting those that deliver
+    the greatest safety and productivity benefits.
+  :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+- :code: rail
+  :what: Rebuilding &#8531; of our interstate rail freight network
+  :benefit: |-
+    4,000 kilometres of sturdy track that doesn't buckle in the Australian heat,
+    and replacing millions of decaying wooden sleepers with stable concrete ones.
+    Combine this with additional passing loops and the elimination of steep curves,
+    and rail is once again becoming a viable means of carrying freight.
+  :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+- :code: morerail
+  :what: Committed more to urban passenger rail than any government since Federation
+  :benefit: |-
+    Rail is safe, fast, and efficient, when used properly.  Getting cars off the roads
+    means driving is safer for the rest of us.  Trains are cheaper to run, and are the
+    backbone of many modern public transport systems.
+  :url: http://anthonyalbanese.com.au/ministerial
+- :code: ports
+  :what: Developed a National Ports Strategy
+  :benefit: |-
+    Streamlining how goods get into, and leave the country is vital for Australian
+    productivity. As an island nation, our ports are Australia's gateway to the world.
+    A nationally coordinated approach to the planning and development of port
+    infrastructure is essential for Australia's future economic growth.
+  :url: http://www.ntc.gov.au/viewpage.aspx?documentid=1967
+  
