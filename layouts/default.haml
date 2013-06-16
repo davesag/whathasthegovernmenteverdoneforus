@@ -101,14 +101,14 @@
             %p.muted
               This is not political advertising, just a collection of facts, and associated editorial.
               It has not been endorsed or authorised by anyone.
-:javascript
-  if ("#{config[:base_url]}" === document.location.origin) {
-    window.___gcfg = {lang: 'en-GB'};
-    (function() {
-      var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-      po.src = 'https://apis.google.com/js/plusone.js';
-      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-    })();
-    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
-  }
-%script(src="http://platform.tumblr.com/v1/share.js")
+    :javascript
+      if ("#{config[:base_url]}" === document.location.origin) {
+        window.___gcfg = {lang: 'en-GB'};
+        (function() {
+          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+          po.src = 'https://apis.google.com/js/plusone.js';
+          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+        })();
+        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+      }
+    %script(src="http://platform.tumblr.com/v1/share.js")
