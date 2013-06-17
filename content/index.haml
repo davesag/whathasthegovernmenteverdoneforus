@@ -4,6 +4,8 @@ heading: What has the Government ever done for us?
 changefreq: daily
 priority: 0.9
 image: your_government.png
+description:  This site exists to make ordinary Australians aware of some of our government’s achievements.
+keywords: what has the government ever done for us
 script: jquery.tablesorter.min.js,jquery.tablesorter.widgets.min.js,jquery.tablesorter.pager.min.js
 style: theme.bootstrap.css,jquery.tablesorter.pager.css
 ---
@@ -29,33 +31,33 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
     has accomplished quite a lot, despite what the media might tell you.
     Here's #{achievements.size} achievements we can all be proud of.
 .row-fluid
-  %ul#tabs.nav.nav-tabs
-    %li <a href="#rolling" data-toggle="tab">Rolling</a></li>
-    %li <a href="#listing" data-toggle="tab">List</a></li>
+  %ul#tabs.nav.nav-tabs<
+    %li< <a href="#rolling" data-toggle="tab">Rolling</a>
+    %li< <a href="#listing" data-toggle="tab">List</a>
   .tab-content
-    #rolling.tab-pane.active.carousel.slide
-      %ol.carousel-indicators
+    #rolling.tab-pane.active.carousel.slide<
+      %ol.carousel-indicators<
         -achievements.each_with_index do |ach, i|
           %li{:class => ((i == 0) ? 'active' : nil), :data => {:target => '#rolling', :'slide-to' => i}}
       .carousel-inner
         -achievements.each_with_index do |ach, i|
           .item{:class => ((i == 0) ? 'active' : nil)}
-            .achievement-text.hero-unit
+            .achievement-text.hero-unit<
               %h2 #{ach[:what]}
-            .carousel-caption
+            .carousel-caption<
               %p<
                 #{ach[:benefit]}
                 %a.btn.btn-success.btn-small.more-info.pull-right{:href=>ach[:url]} more info
       %a.carousel-control.left(href="#rolling" data-slide="prev") &lsaquo;
       %a.carousel-control.right(href="#rolling" data-slide="next") &rsaquo;
-    #listing.tab-pane
-      %table.tablesorter
-        %thead
-          %tr
+    #listing.tab-pane<
+      %table.tablesorter<
+        %thead<
+          %tr<
             %th.achievement Achievement
             %th.benefit How does this benefit Australians?
-        %tfoot
-          %tr
+        %tfoot<
+          %tr<
             %th.pager.form-horizontal(colspan="3")
               %button.btn.first(type="button")<
                 %i.icon-step-backward
@@ -66,17 +68,17 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
                 %i.icon-arrow-right
               %button.btn.last(type="button")<
                 %i.icon-step-forward
-              %select.pagesize.input-mini(title="Select page size")
+              %select.pagesize.input-mini(title="Select page size")<
                 %option(selected="selected" value="10") 10
                 %option(value="20") 20
                 %option(value="40") 40
               %select.pagenum.input-mini(title="Select page number")
-        %tbody
+        %tbody<
           -achievements.each_with_index do |ach, i|
             %tr<
               %td<
-                %a.more-info{:href=>ach[:url]} #{ach[:what]}
-              %td #{ach[:benefit]}
+                %a.more-info{:href=>ach[:url]}<= ach[:what]
+              %td<= ach[:benefit]
 -# see http://twitter.github.com/bootstrap/base-css.html#tables
 :javascript
   $(function () {
