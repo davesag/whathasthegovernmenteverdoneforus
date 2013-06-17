@@ -51,10 +51,10 @@
     %script(type="text/javascript" src="/bootstrap/js/bootstrap.min.js")
     -if item[:style]
       -for style_name in item[:style].split(',')
-        %link{href=>"/css/#{style_name}", :media=>'screen', :rel=>'stylesheet'}
+        %link{:href=>"/css/#{style_name}", :media=>'screen', :rel=>'stylesheet'}
     -if item[:script]
       -for script_name in item[:script].split(',')
-        %script{type=>'text/javascript',  :src=>"/scripts/#{script_name}"}
+        %script{:type=>'text/javascript',  :src=>"/scripts/#{script_name}"}
     :javascript
       var debugging = true;
       // defend against browsers with no console.
@@ -81,7 +81,6 @@
         $('ul.nav > li > a[href="' + document.location.pathname + '"]').parent().addClass('active');
       });
     %link(href='/bootstrap/css/bootstrap-responsive.min.css' media='screen' rel='stylesheet')
-    %link(href='/css/fontawesome.css' type='text/css' rel='stylesheet')
   %body
     #fb-root
     .container(style="margin-top: 0;margin-bottom: 0;")<
