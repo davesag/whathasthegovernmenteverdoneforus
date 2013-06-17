@@ -79,6 +79,7 @@
       }
       $(document).ready(function(){
         $('ul.nav > li > a[href="' + document.location.pathname + '"]').parent().addClass('active');
+        $("a.more-info").each(function() {$(this).attr('target', '_blank')});
       });
     %link(href='/bootstrap/css/bootstrap-responsive.min.css' media='screen' rel='stylesheet')
   %body
@@ -99,14 +100,16 @@
       .container(style="margin-top: 0;margin-bottom: 0;")<
         .row-fluid
           .span6
-            %a.btn.btn-primary.btn-small(href="https://www.facebook.com/pages/Tony-Abbott-will-never-be-prime-minister/274330505796") Tony Abbott Will Never Be Prime Minister
-            %p.muted List derived from <a href="http://theaimn.com/2013/05/28/judging-gillard-and-the-labor-government/">Judging Julia Gillard and the Labor Government</a>.
+            %a.btn.btn-primary.btn-small.more-info(href="https://www.facebook.com/pages/Tony-Abbott-will-never-be-prime-minister/274330505796") Tony Abbott Will Never Be Prime Minister
+            %p.muted
+              List derived from
+              %a.more-info(href="http://theaimn.com/2013/05/28/judging-gillard-and-the-labor-government/") Judging Julia Gillard and the Labor Government
           .span6
             %p.muted
               This is not political advertising, just a collection of facts, and associated editorial.
               It has not been endorsed or authorised by anyone.
               If you print this page you'll need to attach your own authorisation text
-              <a href="http://www.aec.gov.au/About_AEC/Publications/backgrounders/files/2013-eb-electoral-advertising.pdf">as per AEC rules</a>.
+              <a class="more-info" href="http://www.aec.gov.au/About_AEC/Publications/backgrounders/files/2013-eb-electoral-advertising.pdf">as per AEC rules</a>.
     :javascript
       if (is_hosted()) {
         window.___gcfg = {lang: 'en-GB'};

@@ -20,9 +20,8 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
     }
   }
   th {
-    .achievement { width: 15%; }
-    .benefit { width: 70%; }
-    .more-info { width: 15%; }
+    .achievement { width: 35%; }
+    .benefit { width: 65%; }
   }
 .row-fluid
   %p
@@ -44,7 +43,9 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
             .achievement-text.hero-unit
               %h2 #{ach[:what]}
             .carousel-caption
-              %p #{ach[:benefit]} <a href="#{ach[:url]}" class="btn btn-success btn-small">more info</a>
+              %p<
+                #{ach[:benefit]}
+                %a.btn.btn-success.btn-small.more-info.pull-right{:href=>ach[:url]} more info
       %a.carousel-control.left(href="#rolling" data-slide="prev") &lsaquo;
       %a.carousel-control.right(href="#rolling" data-slide="next") &rsaquo;
     #listing.tab-pane
@@ -52,8 +53,7 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
         %thead
           %tr
             %th.achievement Achievement
-            %th.benefit Benefit to you
-            %th.more-info More Info
+            %th.benefit How does this benefit Australians?
         %tfoot
           %tr
             %th.pager.form-horizontal(colspan="3")
@@ -68,48 +68,19 @@ style: theme.bootstrap.css,jquery.tablesorter.pager.css
                 %i.icon-step-forward
               %select.pagesize.input-mini(title="Select page size")
                 %option(selected="selected" value="10") 10
-                %option(value="20")20
-                %option(value="40")20
+                %option(value="20") 20
+                %option(value="40") 40
               %select.pagenum.input-mini(title="Select page number")
         %tbody
           -achievements.each_with_index do |ach, i|
-            %tr
-              %th #{ach[:what]}
+            %tr<
+              %td<
+                %a.more-info{:href=>ach[:url]} #{ach[:what]}
               %td #{ach[:benefit]}
-              %td <a href="#{ach[:url]}" class="btn btn-success btn-small">more info</a>
+-# see http://twitter.github.com/bootstrap/base-css.html#tables
 :javascript
   $(function () {
     $('#tabs a:first').tab('show');
-    $.extend($.tablesorter.themes.bootstrap, {
-      // these classes are added to the table. To see other table classes available,
-      // look here: http://twitter.github.com/bootstrap/base-css.html#tables
-      table      : 'table table-bordered',
-      header     : 'bootstrap-header', // give the header a gradient background
-      footerRow  : '',
-      footerCells: '',
-      icons      : '', // add "icon-white" to make them white; this icon class is added to the <i> in the header
-      sortNone   : 'bootstrap-icon-unsorted',
-      sortAsc    : 'icon-chevron-up',
-      sortDesc   : 'icon-chevron-down',
-      active     : '', // applied when column is sorted
-      hover      : '', // use custom css here - bootstrap class may not override it
-      filterRow  : '', // filter row class
-      even       : '', // odd row zebra striping
-      odd        : ''  // even row zebra striping
-    });
-
-    // call the tablesorter plugin and apply the uitheme widget
-    $("table").tablesorter({
-      theme : "bootstrap",
-      headerTemplate : '{content} {icon}',
-      widgets : [ "uitheme", "filter", "zebra" ],
-      widgetOptions : { zebra : ["even", "odd"] },
-      headers : { 1 : { sorter: false, filter: false }, 2 : { sorter: false, filter: false } }
-    })
-    .tablesorterPager({
-      container: $(".pager"),
-      cssGoto  : ".pagenum",
-      removeRows: false,
-      output: '{startRow} - {endRow} / {filteredRows} ({totalRows})'
-    });
+    $.extend($.tablesorter.themes.bootstrap, {table: 'table table-bordered', header: 'bootstrap-header', footerRow: '', footerCells: '', icons: '', sortNone: 'bootstrap-icon-unsorted', sortAsc: 'icon-chevron-up', sortDesc: 'icon-chevron-down', active: '', hover: '', filterRow: '', even: '', odd: ''});
+    $("table").tablesorter({theme: "bootstrap", headerTemplate: '{content} {icon}', widgets: [ "uitheme", "filter", "zebra" ], widgetOptions: { zebra: ["even", "odd"] }, headers: { 1: {sorter: false}}}).tablesorterPager({container: $(".pager"),cssGoto: ".pagenum",removeRows: false,output: '{startRow} - {endRow} / {filteredRows} ({totalRows})'});
   })
