@@ -96,10 +96,10 @@
       .container(style="margin-top: 0;margin-bottom: 0;")<
         .row-fluid
           .span6
-            %a.btn.btn-primary.btn-small.more-info(href="https://www.facebook.com/pages/Tony-Abbott-will-never-be-prime-minister/274330505796") Tony Abbott Will Never Be Prime Minister
-            %p.muted
-              List derived from
+            %p.muted<
+              Original fact list derived from
               %a.more-info(href="http://theaimn.com/2013/05/28/judging-gillard-and-the-labor-government/") Judging Julia Gillard and the Labor Government
+              and expanded considerably.
           .span6
             %p.muted
               This is not political advertising, just a collection of facts, and associated editorial.
@@ -115,5 +115,7 @@
           var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
         })();
         !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');
+      } else {
+        $("#social").hide();
       }
     %script(src="http://platform.tumblr.com/v1/share.js")
