@@ -14,13 +14,15 @@
     which have not even been invented yet.
   :url: http://www.nbnco.com.au
 - :code: BER
-  :what: 'BER 7,920 schools: 10,475 projects. (completed at less than 3% dissatisfaction rate)'
+  :what: |-
+    Building the Education Revolution — 7,920 schools: 10,475 projects
+    completed with over a 97% satisfaction rate
   :benefit: |-
-    As part of a national economic stimulus programme, the Government chose to invest
+    As part of a national economic stimulus program, the Government chose to invest
     heavily in new facilities for schools right across the country.  This had the twin
     effect of both stimulating the economy, helping stave off the effects of the global
-    financial crisis which swept through the rest of the world, while improving the lives of
-    hundreds of thousands of children right across Australia.
+    financial crisis which swept through the rest of the world, while improving the
+    lives of many hundreds of thousands of children right across Australia.
 - :code: Gonski
   :what: 'Gonski – Education funding reform'
   :benefit: |-
@@ -43,7 +45,7 @@
     due to the flow-on results of cuts in company tax and tax breaks for small businesses.
   :url: http://www.mining-tax.com.au
 - :code: UN
-  :what: Won seat on the United Nations Security Council
+  :what: Earned a seat on the United Nations Security Council
   :benefit: |-
     Australia's status as both an economic powerhouse and fair-player has been recognised
     by its inclusion on the UN's Security Council. This benefits all Australians.
@@ -57,16 +59,16 @@
     of the solution, not just part of the problem.
   :url: http://www.climatechange.gov.au/international/negotiations/history-negotiations/kyoto-protocol
 - :code: Bali
-  :what: Signatory to Bali Process & Regional Framework
+  :what: Signatory to the Bali Process and Regional Framework
   :benefit: |-
-    By signing up to the Bali Process & Regional Framework, Australia again demonstrated
+    By signing up to the Bali Process and Regional Framework, Australia again demonstrated
     its willingness to tackle the scourge of human trafficking.
   :url: http://www.baliprocess.net
 - :code: workchoices
   :what: Eradicated WorkChoices
   :benefit: |-
-    WorkChoices was manifestly unfair to both employees and to small business owners, and
-    was widely reviled across Australia. Labor eliminated this hated legislation.
+    WorkChoices was manifestly unfair to both employees and to business owners, and
+    was widely reviled across Australia. The Government eliminated this hated legislation.
   :url: http://www.findlaw.com.au/faqs/1916/what-was-workchoices-and-why-was-it-so-unpopular.aspx
 - :code: Fairwork
   :what: Established Fair Work Australia
@@ -77,8 +79,8 @@
   :url: http://www.fwc.gov.au
 - :code: cleanenergyfuture
   :what: |-
-    Established a price on carbon pollution contributing to an 8.6% reduction in emissions
-    from stationary energy since July last year
+    Established a price on carbon pollution which has already contributed to an 8.6%
+    reduction in emissions from stationary energy since July last year
   :benefit: |-
     To meet its Kyoto obligations, and to effectively reduce carbon emissions from Australian
     activity, the Government instituted a price on carbon pollution, to be paid by the nation's
@@ -86,20 +88,20 @@
     financially disadvantaged.
   :url: http://www.cleanenergyfuture.gov.au
 - :code: parksandrec
-  :what: Established National Network of Reserves and Parks
+  :what: Established a national network of reserves and parks
   :benefit: |-
     Australians all love the outdoors, and our country has some of the world's rarest
     and most endangered animals and plants.  The Government has ensured that our natural
     beauty will be there in the future for all Australians to enjoy.
   :url: http://www.environment.gov.au/parks/nrs/
 - :code: marinepark
-  :what: Created world’s largest Marine Park Network
+  :what: Created the world’s largest network of marine parks
   :benefit: |-
     Fish stocks are being depleted world-wide. Australia has the largest coastline
     of any country, and leveraged this advantage for the benefit of all the world.
   :url: http://www.environment.gov.au/marinereserves/
 - :code: ReefRescue
-  :what: Introduced Reef Rescue Program
+  :what: Introduced the Reef Rescue program
   :benefit: |-
     Reef Rescue represents a coordinated approach to environmental management in
     Australia and is the single largest commitment ever made to address the threats of
@@ -114,7 +116,7 @@
     for their families left behind, we say sorry”.
   :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/apology-to-australias-indigenous-peoples
 - :code: super
-  :what: Increased Superannuation contributions from 9% to 12%
+  :what: Increased superannuation contributions from 9% to 12%
   :benefit: |-
     For most Australians, their Super is the only money they'll have after their working
     life is over.  We are living longer, and we need to set more aside for a longer retirement.
@@ -127,19 +129,19 @@
     in the eyes of the law.
   :url: http://glrl.org.au/index.php/Rights/Relationships/Overview-of-the-Same-Sex-Reforms
 - :code: violence
-  :what: Introduced National Plan to reduce violence against women and children
+  :what: Introduced a national plan to reduce violence against women and children
   :benefit: |-
     Women and children suffer violence far more often than adult men do, and this just has to stop.
   :url: http://www.fahcsia.gov.au/our-responsibilities/women/programs-services/reducing-violence/the-national-plan-to-reduce-violence-against-women-and-their-children
 - :code: discrimination
-  :what: Improvements to the Sex and Age Discrimination Act
+  :what: Improved the Sex and Age Discrimination Act
   :benefit: |-
     Discrimination because of anyone's gender or their age is unfair, and also adds
     an economic burden on all Australians. All Australians need to be treated equally
     in the eyes of the law.
   :url: http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4459
 - :code: ciggies
-  :what: Introduced Plain packaging of cigarettes
+  :what: Introduced plain packaging of cigarettes
   :benefit: |-
     Smoking cigarettes is one of the worst things you can do for your health. Cigarettes themselves
     are addictive, and aggressively promoted, especially to young people, as being cool. Plain packaging
@@ -147,14 +149,14 @@
   :url: http://www.health.gov.au/internet/main/publishing.nsf/Content/tobacco-plain
 - :code: equalpay
   :what: |-
-    Legislated Equal pay for social & community workers (resulting in them receiving
-    up to 45% pay increases)
+    Legislated equal pay for social & community workers, resulting in them receiving
+    pay increases of up to 45%
   :benefit: |-
-    Social workers care for our society's least advantaged people, and they were being paid dismally
-    for their fine and difficult work.
+    Social workers care for our society's least advantaged people, and they were being
+    paid dismally for their fine and difficult work.
   :url: http://www.fahcsia.gov.au/our-responsibilities/communities-and-vulnerable-people/grants-funding/fair-pay-for-social-and-community-services-workers
 - :code: carerleave
-  :what: Legislated Australia’s first Paid Parental Leave scheme
+  :what: Legislated Australia’s first paid parental leave scheme
   :benefit: |-
     Women and men alike were being forced out of the workforce, simply because they, or their
     partner was having a child. This legislation brings Australia into line with other
@@ -171,11 +173,11 @@
   :what: Legislated Murray/Darling Basin plan (finally, after one hundred years of trying.)
   :benefit: |-
     The Murray Darling river system is sick. Use of vital fresh water has been mismanaged
-    for many years. The Murray Darling plan is the first genuine attempt to fix that, for the benefit of
-    all Australians.
+    for many years. The Murray Darling plan is the first genuine attempt to fix that,
+    for the benefit of all Australians.
   :url: http://www.mdba.gov.au/about-mdba/governance/murray-darling-basin-agreement
 - :code: edufund
-  :what: Increased Higher Education funding by 50%
+  :what: Increased higher education funding by 50%
   :benefit: |-
     Investment in Australian education had been underwhelming for years until these vital reforms.
   :url: http://www.crikey.com.au/2013/04/15/get-fact-has-gillard-increased-uni-funding-by-50/
@@ -194,21 +196,21 @@
     missing out.
   :url: http://minister.innovation.gov.au/craigemerson/mediareleases/pages/morekidsatuniversityandteachertraininggetsaboost.aspx
 - :code: computers
-  :what: A computer for every year 9 — 12 student
+  :what: Funded a computer for every year 9 — 12 student
   :benefit: |-
     It's impossible to overestimate the impact computers have had on education. Your kids
     deserve properly equipped schools and classrooms. This deal has expired now for grade
     9 kids, but it was a fabulous boost at the time.
   :url: http://deewr.gov.au/digital-education-advisory-group-report
 - :code: MySchool
-  :what: Established MySchool
+  :what: Established the ‘My School’ program
   :benefit: |-
     A valuable tool for educators and communities to understand what is going on inside
     classrooms. The site’s greatest utility remains its power to spark the sort of
     conversations which lead to better outcomes for students.
   :url: http://www.myschool.edu.au
 - :code: curriculum
-  :what: Established a National Curriculum
+  :what: Established a national curriculum
   :benefit: |-
     For the first time education standards have been equalised between the states, allowing for
     more transferrable skills, and a higher degree of social mobility for all students.
@@ -220,20 +222,20 @@
     determine whether or not your kids are meeting their vital educational outcomes.
   :url: http://www.nap.edu.au
 - :code: healthup
-  :what: Increased Health funding by 50%
+  :what: Increased health funding by 50%
   :benefit: |-
     The Government increased healthcare spending by more than $20 billion,
     or 50%, from the previous Australian Health Care Agreement, with direct benefits to
     all Australians.
   :url: http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr09-nr-nr166.htm
 - :code: aged
-  :what: Legislated Aged care package
+  :what: Legislated the ‘Living Longer — Living Better’ aged care reforms
   :benefit: |-
     We are all living longer, and caring for our elderly is what compassionate societies do.
     We'll all benefit from these reforms if we live long enough.
   :url: http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr13-mb-mb039.htm
 - :code: mental
-  :what: Legislated Mental health package
+  :what: Legislated the National mental health reform package
   :benefit: |-
     A stronger, more transparent, accountable, efficient and effective mental health system
     benefits all Australians, even those not suffering from a mental illness.
@@ -241,7 +243,7 @@
 - :code: dental
   :what: Legislated Dental Care package
   :benefit: |-
-    No-one likes having crappy teeth, but too many Australians were avoiding their dentist
+    No-one likes having broken teeth, but too many Australians were avoiding their dentist
     due to expense. Now all Australians can smile with confidence.
   :url: http://health.gov.au/internet/main/publishing.nsf/Content/dentalreform
 - :code: headspace
@@ -252,27 +254,27 @@
     dealing with depression, substance abuse and other mental health issues, we all benefit.
   :url: http://www.headspace.org.au
 - :code: medicarelocals
-  :what: Created Medicare Locals Program
+  :what: Created the Medicare Locals program
   :benefit: |-
     We all benefit from this nation-wide network of primary health care organisations
     that supports health professionals, improves delivery of primary care services at a
     local level, and improves access to after hours primary care.
   :url: http://www.yourhealth.gov.au/internet/yourhealth/publishing.nsf/Content/factsheet-gp-01
 - :code: aussiejobs
-  :what: Created Aussie Jobs package
+  :what: Created the Aussie Jobs package
   :benefit: |-
     Three core strategies to create more jobs today, and to create skilled and rewarding
     jobs for the future.
   :url: http://www.aussiejobs.innovation.gov.au/Pages/default.aspx
 - :code: kickstart
-  :what: Created Kick-Start Initiative for apprentices
+  :what: Created the Kick-Start Initiative for apprentices
   :benefit: |-
     An employer incentive designed to increase the number of Australian Apprenticeship
     commencements in skills shortage areas of the building and construction industries
     and in skills shortage engineering trades.
   :url: http://www.australianapprenticeships.gov.au/program/apprentice-kickstart-initiative
 - :code: newcar
-  :what: Funded A New Car Plan for a Greener Future (providing vital industry support)
+  :what: Funded A New Car Plan for a Greener Future, providing vital industry support
   :benefit:
     A comprehensive plan to assist the car industry to invest in the technologies of tomorrow,
     bringing every player in the industry together in a partnership to reshape the industry
@@ -286,14 +288,14 @@
     in line with the nation's priorities.
   :url: http://www.infrastructureaustralia.gov.au
 - :code: nationbuilding
-  :what: Established Nation Building Program (350 major projects)
+  :what: Established a nation building program involving 350 major projects
   :benefit: |-
     The biggest capital works program in Australian history, with huge investment in
     roads, rail, ports, and many other projects that directly contribute to Australian
     efficiency and productivity.
   :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
 - :code: roads
-  :what: Doubled Federal Roads budget ($36b) (7,500km of improved roads)
+  :what: Doubled the Federal Roads budget ($36b) resulting in 7,500km of improved roads
   :benefit: |-
     The biggest capital works program in Australian history, doubled the road budget
     with more than 7,500 km of new and improved roads, targeting those that deliver
@@ -463,7 +465,7 @@
   :benefit: |-
     There are more Australians in work than ever before and our jobs growth is at least
     twice as fast as any of the major advanced economies. The Government has repeatedly
-    funded programmes that contribute to the creation of new jobs in Australia, allowing
+    funded programs that contribute to the creation of new jobs in Australia, allowing
     the skills of almost all Australians to be properly valued.
   :url: http://ministers.deewr.gov.au/collins/address-australian-industry-group-personnel-and-ir-conference-canberra
 - :code: jobsboard
