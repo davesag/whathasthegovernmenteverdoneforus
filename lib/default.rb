@@ -3,9 +3,7 @@
 
 # see http://nanoc.stoneship.org/docs/5-advanced-concepts/
 
-require 'fileutils'
-
 # Copy static assets outside of content instead of having nanoc3 process them.
 def copy_static
-  FileUtils.cp_r 'static/.', 'output/'
+  `rsync -a static/ output`
 end
