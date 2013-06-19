@@ -22,14 +22,14 @@ keywords: 'API, documentation, data, json, feed'
     %p<
       The URL is
       %code #{config[:base_url]}/api.json
-    %p The data is in <acronym title="Javascript Object Notation">JSON</a> format as follows:
+    %p The data is in <acronym title="Javascript Object Notation">JSON</a> format, encoded at UTF-8, as follows:
     %dl.dl-horizontal.api-doc
       %dt created_at
       %dd The date and time the data file was generated, in UTC timezone
       %dt count
       %dd The number of achievements listed
       %dt achievements
-      %dd A hash of the achievements, keyed by a unique reference code
+      %dd A hash of the achievements, keyed by a unique reference code, which is not used for display.
     .well
       %p Achievements Hash
       %dl.dl-horizontal.api-doc

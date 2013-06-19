@@ -13,8 +13,8 @@ module AchievementHelper
     result = {}
     items.each do |ach|
       result[ach[:code]] = {
-        :what => ach[:what].gsub(/\n/, ' '),
-        :benefit => ach[:benefit].gsub(/\n/, ' '),
+        :what => ach[:what],
+        :benefit => ach[:benefit],
         :url => ach[:url]
       }
     end
