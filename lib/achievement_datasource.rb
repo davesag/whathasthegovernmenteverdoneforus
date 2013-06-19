@@ -17,7 +17,6 @@ class ProjectsDataSource < Nanoc::DataSource
           :code => ach[:code],
           :what => ach[:what],
           :benefit => ach[:benefit],
-          :photo => ach[:photo],
           :url => ach[:url]
         },
         "/achievement_details/#{ach[:code]}",

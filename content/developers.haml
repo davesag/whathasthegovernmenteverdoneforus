@@ -1,0 +1,41 @@
+---
+title: API
+heading: Developer access to the data.
+changefreq: monthly
+priority: 0.9
+image: developer_tools.png
+description:  API Documentation.
+keywords: 'API, documentation, data, json, feed'
+---
+:scss
+  .api-doc {
+    font-family: monospace;
+  }
+.row-fluid
+  .span12
+    %a.btn.btn-success.more-info.pull-right(href="/api.json") <i class="icon-wrench"></i> Get the raw data here
+    %p
+      Developers are encouraged to access the raw data feed
+      for display in unique and interesting ways.
+  %h3 Data Format
+  .well
+    %p<
+      The URL is
+      %code #{config[:base_url]}/api.json
+    %p The data is in <acronym title="Javascript Object Notation">JSON</a> format as follows:
+    %dl.dl-horizontal.api-doc
+      %dt created_at
+      %dd The date and time the data file was generated, in UTC timezone
+      %dt count
+      %dd The number of achievements listed
+      %dt achievements
+      %dd A hash of the achievements, keyed by a unique reference code
+    .well
+      %p Achievements Hash
+      %dl.dl-horizontal.api-doc
+        %dt what
+        %dd What was achieved
+        %dt benefit
+        %dd What is the benefit to Australians of this achievement
+        %dt url
+        %dd The absolute URL of a webpage with more information about this achievement

@@ -6,6 +6,16 @@ priority: 0.9
 image: romans_python.png
 description:  This video reminds us that we take much of our Government’s work for granted.
 keywords: 'what have the Romans ever done for us, aquaduct'
+script: jquery.fitvids.min.js
 ---
+:javascript
+  $(document).ready(function(){
+    $("#python").fitVids();
+  });
 .row-fluid
-  <iframe width="560" height="315" src="http://www.youtube-nocookie.com/embed/Qc7HmhrgTuQ?rel=0" frameborder="0" allowfullscreen></iframe>
+  #python.well
+    <iframe src="http://www.youtube-nocookie.com/embed/Qc7HmhrgTuQ?rel=0" frameborder="0" allowfullscreen></iframe>
+  %p.muted
+    Video extracted from the film "Monty Python's Life of Brian", &copy;1979 Python (Monty) Pictures and embedded via
+    %a(href="https://www.youtube.com/watch?feature=player_embedded&v=Qc7HmhrgTuQ") YouTube
+    under 'fair use' provisions.

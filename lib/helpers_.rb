@@ -20,3 +20,11 @@ def create_sitemap
     '/sitemap/'
   )
 end
+
+def create_json
+  @items << Nanoc3::Item.new(
+    "=json_feed",
+    { :extension => 'json', :is_hidden => true },
+    '/json/', {:binary => false}
+  )
+end

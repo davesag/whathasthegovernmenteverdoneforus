@@ -19,6 +19,7 @@ Compass.add_project_configuration 'compass_config.rb'
 preprocess do
   copy_static
   create_sitemap
+  create_json
 end
 
 compile '/css/*/' do
@@ -34,6 +35,10 @@ end
 
 compile '/achievement_details/*' do
   # nothing. We won't have a page per project here.
+end
+
+compile '/json/' do
+  filter :haml
 end
 
 compile '/sitemap/' do
@@ -57,8 +62,8 @@ route '/scripts/*/' do
   item.identifier.chop + '.js'
 end
 
-route '/data/*/' do
-  item.identifier.chop + '.json'
+route '/json/' do
+  '/api.json'
 end
 
 route '/sitemap/' do
