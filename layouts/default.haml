@@ -89,12 +89,20 @@
         %h2.text-info #{title}
       #content
         =yield
-      #social.row-fluid
-        .fb-like{:data => {:href => "http://whathasthegovernmenteverdoneforus.com/index.html", :send => 'false', :width => '250', :'show-faces' => 'false', :font => 'tahoma'}}
-        %a.twitter-share-button{:href => "https://twitter.com/share", :data => {:url => "http://whathasthegovernmenteverdoneforus.com", :via => "WHTGED4U", :lang => "en-gb", :hashtags => "auspol"}} Tweet
-        %a.twitter-follow-button{:href => "https://twitter.com/WHTGED4U", :data => {:lang => "en-gb"}} Follow @WHTGED4U
-        .g-plusone{:data => {:size=>"medium"}}
-        %a(href="http://www.tumblr.com/share" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:129px; height:20px; background:url('http://platform.tumblr.com/v1/share_3.png') top left no-repeat transparent;") Share on Tumblr
+      .row-fluid
+        .span10
+          #social
+            .span3
+              .fb-like{:data => {:href => "http://whathasthegovernmenteverdoneforus.com/index.html", :width=>"100%", :send => 'false', :'show-faces' => 'false', :font => 'tahoma'}}
+            .span4.offset1
+              %a.twitter-share-button{:href => "https://twitter.com/share", :data => {:url => "http://whathasthegovernmenteverdoneforus.com", :via => "WHTGED4U", :lang => "en-gb", :hashtags => "auspol"}} Tweet
+              %a.twitter-follow-button{:href => "https://twitter.com/WHTGED4U", :data => {:lang => "en-gb"}} Follow @WHTGED4U
+            .span1.offset1
+              .g-plusone{:data => {:size=>"medium"}}
+              %a(href="http://www.tumblr.com/share" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:129px; height:20px; background:url('http://platform.tumblr.com/v1/share_3.png') top left no-repeat transparent;") Share on Tumblr
+        .span2
+          %a(href="/downloads/what_has_the_government_ever_done_for_us.pdf" title="Poster contributed by Anthony Mullins — 1MB PDF")<
+            %img.pull-right(src="/images/what_has_pdf_icon@2x.png" height="135" width="170")
     #footer
       %hr
       .container(style="margin-top: 0;margin-bottom: 10;")<
@@ -106,7 +114,7 @@
             %p.muted
               This is not political advertising, just a collection of facts, and associated editorial.
               It has not been endorsed or authorised by anyone.
-              If you print this page you'll need to attach your own authorisation text
+              If you print this page you may need to attach your own authorisation text
               <a class="more-info" href="http://www.aec.gov.au/About_AEC/Publications/backgrounders/files/2013-eb-electoral-advertising.pdf">as per AEC rules</a>.
     :javascript
       if (is_hosted()) {
