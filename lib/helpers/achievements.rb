@@ -14,6 +14,7 @@ module AchievementHelper
     items.each do |ach|
       result[ach[:code]] = {
         :what => ach[:what],
+        :tweet => ach[:tweet],
         :benefit => ach[:benefit],
         :url => ach[:url]
       }

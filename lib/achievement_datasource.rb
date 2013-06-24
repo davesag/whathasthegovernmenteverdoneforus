@@ -16,6 +16,7 @@ class ProjectsDataSource < Nanoc::DataSource
         {
           :code => ach[:code],
           :what => ach[:what].gsub(/\n/, ' ').encode('UTF-8', :invalid => :replace, :undef => :replace),
+          :tweet => ach[:tweet].encode('UTF-8', :invalid => :replace, :undef => :replace),
           :benefit => ach[:benefit].gsub(/\n/, ' ').encode('UTF-8', :invalid => :replace, :undef => :replace),
           :url => ach[:url]
         },

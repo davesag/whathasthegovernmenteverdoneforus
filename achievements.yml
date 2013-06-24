@@ -1,3 +1,4 @@
+---
 - :code: watertrigger
   :what: |-
     Passed the “Water Trigger” Environment Protection and Biodiversity
@@ -8,23 +9,27 @@
     despite the recent few years of good rain, and coal is something best left in the ground
     according to leading climate scientists.
   :url: http://www.aph.gov.au/Parliamentary_Business/Bills_Legislation/Bills_Search_Results/Result?bId=r5001
+  :tweet: Passed the “Water Trigger” Bill #environment
 - :code: space
-  :what: Australia now has its first ever national Space Industry Policy as of April 2013
+  :what: Australia now has its first ever national Space Industry Policy as of April
+    2013
   :benefit: |-
     Public and private services associated with space technologies enable much of our
     day-to-day life. Satnavs, GPS enabled phones and mapping services like Google Earth,
     are becoming increasingly central to personal navigation and planning, and enable
     critical capabilities that underpin Australia’s economic security.
   :url: http://www.space.gov.au
+  :tweet: Australia’s first ever national Space Industry Policy #space #innovation
 - :code: NBN
   :what: |-
-    The National Broadband Network
-    — projected total cost $37.4b (Government contribution: $30.4b)
-  :benefit:  |-
+    The National Broadband Network — projected total cost
+    $37.4b, Government contribution $30.4b
+  :benefit: |-
     Wiring up every house and business in Australia to super-fast broadband,
     without penalising those who live in the outback, has benefits for us all, many of
     which have not even been invented yet.
   :url: http://www.nbnco.com.au
+  :tweet: The National Broadband Network #NBN #infrastructure
 - :code: BER
   :what: |-
     Building the Education Revolution — 7,920 schools: 10,475 projects
@@ -35,6 +40,7 @@
     effect of both stimulating the economy, helping stave off the effects of the global
     financial crisis which swept through the rest of the world, while improving the
     lives of many hundreds of thousands of children right across Australia.
+  :tweet: 'BER — 7,920 schools: 10,475 projects — 97% satisfaction rate #education'
 - :code: Gonski
   :what: Gonski – Education funding reform
   :benefit: |-
@@ -42,12 +48,14 @@
     to improve the educational outcomes for all young Australians, no matter where they
     live.
   :url: http://igiveagonski.com.au/what-s-gonski/
+  :tweet: Gonski – Education funding reform #education
 - :code: NDIS
   :what: National Disability Insurance Scheme — DisabilityCare
   :benefit: |-
     Making sure all Australians have a place in our society by insuring
     against the onset of a disability.
   :url: http://www.ndis.gov.au
+  :tweet: National Disability Insurance Scheme — DisabilityCare #NDIS
 - :code: MRRT
   :what: The Mineral Rent Resource Tax and aligned Petroleum Resource Rent Tax
   :benefit: |-
@@ -56,12 +64,14 @@
     found that the restructured mining tax could see the average worker gain about $450 a year,
     due to the flow-on results of cuts in company tax and tax breaks for small businesses.
   :url: http://www.mining-tax.com.au
+  :tweet: The Mineral Rent Resource Tax & aligned Petroleum Resource Rent Tax #mining
 - :code: UN
   :what: Earned a seat on the United Nations Security Council
   :benefit: |-
     Australia’s status as both an economic powerhouse and fair-player has been recognised
     by its inclusion on the UN’s Security Council. This benefits all Australians.
   :url: http://www.un.org/en/sc/
+  :tweet: Earned a seat on the UN Security Council #UN #worldstage
 - :code: Kyoto
   :what: Ratified the Kyoto treaty
   :benefit: |-
@@ -70,18 +80,21 @@
     By ratifying Kyoto, the Government showed the world that we are willing to be part
     of the solution, not just part of the problem.
   :url: http://www.climatechange.gov.au/international/negotiations/history-negotiations/kyoto-protocol
+  :tweet: Ratified the Kyoto treaty #environment #worldstage
 - :code: Bali
   :what: Signatory to the Bali Process and Regional Framework
   :benefit: |-
     By signing up to the Bali Process and Regional Framework, Australia again demonstrated
     its willingness to tackle the scourge of human trafficking.
   :url: http://www.baliprocess.net
+  :tweet: Signatory to the Bali Process and Regional Framework #worldstage
 - :code: workchoices
   :what: Eradicated WorkChoices
   :benefit: |-
     WorkChoices was manifestly unfair to both employees and to business owners, and
     was widely reviled across Australia. The Government eliminated this hated legislation.
   :url: http://www.findlaw.com.au/faqs/1916/what-was-workchoices-and-why-was-it-so-unpopular.aspx
+  :tweet: Eradicated WorkChoices #jobs
 - :code: Fairwork
   :what: Established Fair Work Australia
   :benefit: |-
@@ -89,6 +102,7 @@
     negotiate with employers in mediated dialogue, leading to fairer employment conditions
     for all Australians.
   :url: http://www.fwc.gov.au
+  :tweet: Established Fair Work Australia #jobs
 - :code: cleanenergyfuture
   :what: |-
     Established a price on carbon pollution which has already contributed to an 8.6%
@@ -99,6 +113,7 @@
     top emitters. It also restructured the tax base to ensure that most Australians were not
     financially disadvantaged.
   :url: http://www.cleanenergyfuture.gov.au
+  :tweet: Carbon price contributed to >8% emissions reduction start #environment
 - :code: parksandrec
   :what: Established a national network of reserves and parks
   :benefit: |-
@@ -106,12 +121,14 @@
     and most endangered animals and plants.  The Government has ensured that our natural
     beauty will be there in the future for all Australians to enjoy.
   :url: http://www.environment.gov.au/parks/nrs/
+  :tweet: Established a national network of reserves and parks #wilderness #environment
 - :code: marinepark
   :what: Created the world’s largest network of marine parks
   :benefit: |-
     Fish stocks are being depleted world-wide. Australia has the largest coastline
     of any country, and leveraged this advantage for the benefit of all the world.
   :url: http://www.environment.gov.au/marinereserves/
+  :tweet: Created the world’s largest network of marine parks #environment #fish
 - :code: ReefRescue
   :what: Introduced the Reef Rescue program
   :benefit: |-
@@ -119,32 +136,39 @@
     Australia and is the single largest commitment ever made to address the threats of
     declining water quality and climate change to the Great Barrier Reef World Heritage Area.
   :url: http://www.nrm.gov.au/funding/reef-rescue/
+  :tweet: Introduced the Reef Rescue program #environment
 - :code: apology
-  :what: National apology to the indigenous people of Australia regarding the “stolen generations”
+  :what: |-
+    National apology to the indigenous people of Australia regarding the “stolen generations”
   :benefit: |-
     The long-overdue apology honoured the Indigenous peoples of this land and reflected in
     particular on the mistreatment of those who were stolen from their homes under government policy, saying
     “For the pain, suffering and hurt of these Stolen Generations, their descendants and
     for their families left behind, we say sorry”.
   :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/apology-to-australias-indigenous-peoples
+  :tweet: National apology re the “stolen generations” #firstaustralians
 - :code: super
   :what: Increased superannuation contributions from 9% to 12%
   :benefit: |-
     For most Australians, their Super is the only money they’ll have after their working
     life is over.  We are living longer, and we need to set more aside for a longer retirement.
   :url: http://www.ato.gov.au/taxprofessionals/content.aspx?doc=/content/00245692.htm
-- :code: gay
+  :tweet: Increased superannuation contributions from 9% to 12% #super
+- :code: samesexcouples
   :what: Changed 85 laws to remove discrimination against same sex couples
   :benefit: |-
     Discrimination because of anyone’s sexuality is both unfair and also adds
     an economic burden on all Australians. All Australians need to be treated equally
     in the eyes of the law.
   :url: http://glrl.org.au/index.php/Rights/Relationships/Overview-of-the-Same-Sex-Reforms
+  :tweet: Changed 85 laws to remove discrimination against same sex couples #gay
 - :code: violence
   :what: Introduced a national plan to reduce violence against women and children
   :benefit: |-
-    Women and children suffer violence far more often than adult men do, and this just has to stop.
+    Women and children suffer violence far more often than adult men do, and
+    this just has to stop.
   :url: http://www.fahcsia.gov.au/our-responsibilities/women/programs-services/reducing-violence/the-national-plan-to-reduce-violence-against-women-and-their-children
+  :tweet: Introduced national plan to reduce violence against women & children #manup
 - :code: discrimination
   :what: Improved the Sex and Age Discrimination Act
   :benefit: |-
@@ -152,6 +176,7 @@
     an economic burden on all Australians. All Australians need to be treated equally
     in the eyes of the law.
   :url: http://parlinfo.aph.gov.au/parlInfo/search/display/display.w3p;query=Id:legislation/billhome/R4459
+  :tweet: Improved the Sex & Age Discrimination Act #fairness
 - :code: ciggies
   :what: Introduced plain packaging of cigarettes
   :benefit: |-
@@ -159,6 +184,7 @@
     are addictive, and aggressively promoted, especially to young people, as being cool. Plain packaging
     is a bold experiment to try to curb this scourge.
   :url: http://www.health.gov.au/internet/main/publishing.nsf/Content/tobacco-plain
+  :tweet: Introduced plain packaging of cigarettes #smoking
 - :code: equalpay
   :what: |-
     Legislated equal pay for social and community workers, resulting in them receiving
@@ -167,6 +193,7 @@
     Social workers care for our society’s least advantaged people, and they were being
     paid dismally for their fine and difficult work.
   :url: http://www.fahcsia.gov.au/our-responsibilities/communities-and-vulnerable-people/grants-funding/fair-pay-for-social-and-community-services-workers
+  :tweet: Equal pay for social & community workers, pay increases of up to 45% #fairness
 - :code: carerleave
   :what: Legislated Australia’s first paid parental leave scheme
   :benefit: |-
@@ -174,6 +201,7 @@
     partner was having a child. This legislation brings Australia into line with other
     first world nations, and is manifestly fairer.
   :url: http://www.fahcsia.gov.au/our-responsibilities/families-and-children/programs-services/paid-parental-leave-scheme
+  :tweet: Legislated Australia’s first paid parental leave scheme #jobs #fairness
 - :code: renewable
   :what: Established a $10 billion renewable energy fund
   :benefit: |-
@@ -181,18 +209,24 @@
     needs to radically overhaul its ageing energy infrastructure to remain competitive.
     Renewable energy is the future, and if we are to continue to prosper we need skin in that game.
   :url: http://www.cleanenergyfuture.gov.au/clean-energy-future/our-plan/clean-energy-australia/#content01
+  :tweet: Established a $10 billion renewable energy fund #renewables #environment
 - :code: murray
-  :what: Legislated Murray/Darling Basin plan (finally, after one hundred years of trying.)
+  :what: |-
+    Legislated Murray/Darling Basin plan (finally, after one
+    hundred years of trying.)
   :benefit: |-
     The Murray Darling river system is sick. Use of vital fresh water has been mismanaged
     for many years. The Murray Darling plan is the first genuine attempt to fix that,
     for the benefit of all Australians.
   :url: http://www.mdba.gov.au/about-mdba/governance/murray-darling-basin-agreement
+  :tweet: Legislated Murray/Darling Basin plan #environment
 - :code: edufund
   :what: Increased higher education funding by 50%
   :benefit: |-
-    Investment in Australian education had been underwhelming for years until these vital reforms.
+    Investment in Australian education had been underwhelming for years until
+    these vital reforms.
   :url: http://www.crikey.com.au/2013/04/15/get-fact-has-gillard-increased-uni-funding-by-50/
+  :tweet: Increased higher #education funding by 50%
 - :code: directelect
   :what: Established direct electoral enrolment
   :benefit: |-
@@ -200,6 +234,7 @@
     Now the Government uses data from other departments to keep the electoral roll up
     to date; saving you time, and ensuring you never miss out.
   :url: http://www.aec.gov.au/About_AEC/publications/Fact_Sheets/direct.htm
+  :tweet: Established direct electoral enrolment
 - :code: moreuni
   :what: Created 190,000 more University places
   :benefit: |-
@@ -207,6 +242,7 @@
     innovation is world-famous, and more places at Uni mean less chance of you or your kids’
     missing out.
   :url: http://minister.innovation.gov.au/craigemerson/mediareleases/pages/morekidsatuniversityandteachertraininggetsaboost.aspx
+  :tweet: Created 190,000 more University places #education
 - :code: computers
   :what: Funded a computer for every year 9 — 12 student
   :benefit: |-
@@ -214,6 +250,7 @@
     deserve properly equipped schools and classrooms. This deal has expired now for grade
     9 kids, but it was a fabulous boost at the time.
   :url: http://deewr.gov.au/digital-education-advisory-group-report
+  :tweet: Funded a computer for every year 9 — 12 student #education
 - :code: MySchool
   :what: Established the ‘My School’ program
   :benefit: |-
@@ -221,18 +258,21 @@
     classrooms. The site’s greatest utility remains its power to spark the sort of
     conversations which lead to better outcomes for students.
   :url: http://www.myschool.edu.au
+  :tweet: Established the ‘My School’ program #education
 - :code: curriculum
   :what: Established a national curriculum
   :benefit: |-
     For the first time education standards have been equalised between the states, allowing for
     more transferrable skills, and a higher degree of social mobility for all students.
   :url: http://www.australiancurriculum.edu.au
+  :tweet: Established a national curriculum #education
 - :code: NAPLAN
   :what: Established the National Assessment Program for Literacy and Numeracy
   :benefit: |-
     The NAPLAN provides a way for governments, education authorities and schools to
     determine whether or not your kids are meeting their vital educational outcomes.
   :url: http://www.nap.edu.au
+  :tweet: Established the National Assessment Program for Literacy & Numeracy #education
 - :code: healthup
   :what: Increased health funding by 50%
   :benefit: |-
@@ -240,24 +280,28 @@
     or 50%, from the previous Australian Health Care Agreement, with direct benefits to
     all Australians.
   :url: http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr09-nr-nr166.htm
+  :tweet: Increased health funding by 50% #health
 - :code: aged
   :what: Legislated the ‘Living Longer — Living Better’ aged care reforms
   :benefit: |-
     We are all living longer, and caring for our elderly is what compassionate societies do.
     We’ll all benefit from these reforms if we live long enough.
   :url: http://www.health.gov.au/internet/ministers/publishing.nsf/Content/mr-yr13-mb-mb039.htm
+  :tweet: Legislated the ‘Living Longer — Living Better’ aged care reforms #health
 - :code: mental
   :what: Legislated the National mental health reform package
   :benefit: |-
     A stronger, more transparent, accountable, efficient and effective mental health system
     benefits all Australians, even those not suffering from a mental illness.
   :url: http://www.health.gov.au/internet/main/publishing.nsf/Content/Mental+Health+and+Wellbeing-1
+  :tweet: Legislated the National mental health reform package #health
 - :code: dental
   :what: Legislated Dental Care package
   :benefit: |-
     No-one likes having broken teeth, but too many Australians were avoiding their dentist
     due to expense. Now all Australians can smile with confidence.
   :url: http://health.gov.au/internet/main/publishing.nsf/Content/dentalreform
+  :tweet: Legislated Dental Care package #health #dentistry
 - :code: headspace
   :what: Created 90 Headspace sites for young people with mental health issues
   :benefit: |-
@@ -265,6 +309,7 @@
     By setting up a network of services across the country to support young people
     dealing with depression, substance abuse and other mental health issues, we all benefit.
   :url: http://www.headspace.org.au
+  :tweet: Created 90 Headspace sites for young people with mental #health issues #youth
 - :code: medicarelocals
   :what: Created the Medicare Locals program
   :benefit: |-
@@ -272,12 +317,14 @@
     that supports health professionals, improves delivery of primary care services at a
     local level, and improves access to after hours primary care.
   :url: http://www.yourhealth.gov.au/internet/yourhealth/publishing.nsf/Content/factsheet-gp-01
+  :tweet: Created the Medicare Locals program #health
 - :code: aussiejobs
   :what: Created the Aussie Jobs package
   :benefit: |-
     Three core strategies to create more jobs today, and to create skilled and rewarding
     jobs for the future.
   :url: http://www.aussiejobs.innovation.gov.au/Pages/default.aspx
+  :tweet: Created the Aussie Jobs package #jobs #employment
 - :code: kickstart
   :what: Created the Kick-Start Initiative for apprentices
   :benefit: |-
@@ -285,13 +332,15 @@
     commencements in skills shortage areas of the building and construction industries
     and in skills shortage engineering trades.
   :url: http://www.australianapprenticeships.gov.au/program/apprentice-kickstart-initiative
+  :tweet: Created the Kick-Start Initiative for apprentices #jobs #employment
 - :code: newcar
   :what: Funded A New Car Plan for a Greener Future, providing vital industry support
-  :benefit:
-    A comprehensive plan to assist the car industry to invest in the technologies of tomorrow,
-    bringing every player in the industry together in a partnership to reshape the industry
-    and deliver enduring benefits to all Australians.
+  :benefit: |-
+    A comprehensive plan to assist the car industry to invest in the technologies
+    of tomorrow, bringing every player in the industry together in a partnership to
+    reshape the industry and deliver enduring benefits to all Australians.
   :url: http://www.innovation.gov.au/INDUSTRY/AUTOMOTIVE/INITIATIVESANDASSISTANCE/Pages/default.aspx
+  :tweet: Funded A New Car Plan for a Greener Future #industry #innovation
 - :code: infrastructureaustralia
   :what: Created Infrastructure Australia
   :benefit: |-
@@ -299,6 +348,7 @@
     ensure that projects that are federally funded adhere to strict guidelines, and are
     in line with the nation’s priorities.
   :url: http://www.infrastructureaustralia.gov.au
+  :tweet: Created Infrastructure Australia #infrastructure
 - :code: nationbuilding
   :what: Established a nation building program involving 350 major projects
   :benefit: |-
@@ -306,6 +356,7 @@
     roads, rail, ports, and many other projects that directly contribute to Australian
     efficiency and productivity.
   :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+  :tweet: Nation building program — 350 major projects #infrastructure
 - :code: roads
   :what: Doubled the Federal Roads budget ($36b) resulting in 7,500km of improved roads
   :benefit: |-
@@ -313,6 +364,7 @@
     with more than 7,500 km of new and improved roads, targeting those that deliver
     the greatest safety and productivity benefits.
   :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+  :tweet: Doubled the Federal Roads budget — 7,500km of improved roads #infrastructure
 - :code: rail
   :what: Rebuilding ⅓ of our interstate rail freight network
   :benefit: |-
@@ -321,6 +373,7 @@
     Combine this with additional passing loops and the elimination of steep curves,
     and rail is once again becoming a viable means of carrying freight.
   :url: http://www.minister.infrastructure.gov.au/aa/opinion/2013/aao_007_2013.aspx
+  :tweet: Rebuilding ⅓ of our interstate rail freight network #infrastructure
 - :code: morerail
   :what: Committed more to urban passenger rail than any government since Federation
   :benefit: |-
@@ -328,6 +381,7 @@
     means driving is safer for the rest of us.  Trains are cheaper to run, and are the
     backbone of many modern public transport systems.
   :url: http://anthonyalbanese.com.au/ministerial
+  :tweet: More urban passenger rail than any government since Federation #infrastructure
 - :code: ports
   :what: Developed a National Ports Strategy
   :benefit: |-
@@ -336,6 +390,7 @@
     A nationally coordinated approach to the planning and development of port
     infrastructure is essential for Australia’s future economic growth.
   :url: http://www.ntc.gov.au/viewpage.aspx?documentid=1967
+  :tweet: Developed a National Ports Strategy #infrastructure
 - :code: landfreight
   :what: Developed a National Land Freight Strategy
   :benefit: |-
@@ -344,6 +399,7 @@
     and from these markets, substantially determines our productivity and
     economic performance.
   :url: http://www.infrastructureaustralia.gov.au/freight/
+  :tweet: Developed a National Land Freight Strategy #infrastructure
 - :code: aviationwhitepaper
   :what: Created Australia’s first ever Aviation White Paper
   :benefit: |-
@@ -352,6 +408,7 @@
     forward-looking document providing planning, regulatory and investment certainty
     for the aviation industry out to 2020 and beyond.
   :url: http://www.infrastructure.gov.au/aviation/nap/
+  :tweet: Created Australia’s first ever Aviation White Paper #innovation
 - :code: revship
   :what: Revitalised Australian Shipping
   :benefit: |-
@@ -359,13 +416,15 @@
     introduced early last century, making transparent the decision making processes,
     which determine a foreign vessel’s participation in Australian domestic shipping.
   :url: http://www.minister.infrastructure.gov.au/aa/speeches/2012/AS14_2012.aspx
+  :tweet: Revitalised Australian Shipping #infrastructure #innovation
 - :code: redreg
   :what: Reduced transport regulators from 23 to 3, saving $30b over 20 years
   :benefit: |-
-    The Australian road transport industry employs more than 220,000 people and is 
-    a vital link between our factories and our cities, between our farms and mines,
-    and our ports.
+    The Australian road transport industry employs more than 220,000 people
+    and is a vital link between our factories and our cities, between our farms
+    and mines, and our ports.
   :url: http://anthonyalbanese.com.au/speech-to-the-national-conference-of-the-australian-livestock-and-rural-transport-association-the-pavilion-newcastle-jockey-club
+  :tweet: Transport regulators down from 23 to 3, saving $30b over 20 years #efficiency
 - :code: ncis
   :what: Introduced the National Infrastructure Construction Schedule
   :benefit: |-
@@ -375,6 +434,7 @@
     infrastructure projects committed by governments across the country in a
     dynamic, easy-to-use manner.
   :url: https://www.nics.gov.au
+  :tweet: Introduced the National Infrastructure Construction Schedule #infrastructure
 - :code: oecdinf
   :what: |-
     Australia has moved from twentieth in 2007, to second in the
@@ -384,23 +444,27 @@
     infrastructure, Australia has been future-proofing itself now, using the proceeds of
     its mining boom, to ensure it has long-term viability.
   :url: http://www.logisticscareer.com.au/archived-news/australia-a-big-infrastructure-spender-finds-oecd
+  :tweet: Australia up from 20th in 2007, to 2nd in OECD #infrastructure ranking
 - :code: iimoty
   :what: Awarded International Infrastructure Minister of the Year (2012 Albanese)
-  :benefit: |-
-    International acclaim for our Government is something all Australians can be proud of.
+  :benefit: International acclaim for our Government is something all Australians
+    can be proud of.
   :url: https://www.infrastructureinvestor.com/News_And_Analysis/2012/September/News/Albanese_is_our_Minister_of_the_Year/
+  :tweet: Minister @AlboMP International #Infrastructure Minister of the Year #worldstage
 - :code: itoty
   :what: Awarded International Finance Minister of the Year (2011 Swan)
   :benefit: |-
     International acclaim for our Government is something all Australians can be proud of.
     Under Swan’s watch the nation avoided the worst economic meltdown in the world’s history.
   :url: http://www.euromoney.com/Article/2897778/Finance-minister-of-the-year-2011-Swan-confounds-his-domestic-sceptics.html
+  :tweet: Treasurer @SwannyDPM — International Finance Minister of the Year #worldstage
 - :code: dumping
   :what: Introduced Anti-dumping and countervailing system reforms
   :benefit: |-
     Australia has an export driven economy, and an anti—dumping system is the only means
     by which unfair market behaviour can be deterred at the global level.
   :url: http://www.customs.gov.au/anti-dumping/streamlining.asp
+  :tweet: Introduced Anti-dumping and countervailing system reforms #jobs
 - :code: householdassist
   :what: Legislated Household Assistance Package
   :benefit: |-
@@ -408,6 +472,7 @@
     and individuals to commence between March 2013 and January 2014; improving the lives
     of tens of thousands of Australians.
   :url: http://www.fahcsia.gov.au/household-assistance-package
+  :tweet: Legislated Household Assistance Package #fairness
 - :code: schoolkidsbonus
   :what: Introduced the School Kids Bonus
   :benefit: |-
@@ -415,6 +480,7 @@
     automatically paid in January and July each year to eligible families and students
     with no need to make a claim.
   :url: http://www.humanservices.gov.au/customer/services/schoolkids-bonus
+  :tweet: Introduced the School Kids Bonus #education #fairness
 - :code: childcareup
   :what: Increased the Childcare rebate
   :benefit: |-
@@ -424,12 +490,14 @@
     you already receive from Child Care Benefit and/or Jobs, Education and Training (JET)
     Child Care Fee Assistance.
   :url: http://www.humanservices.gov.au/customer/services/centrelink/child-care-rebate
+  :tweet: Increased the Childcare rebate #kids #fairness
 - :code: socialhousing
   :what: Allocated $6b to Social Housing (20,000 homes)
   :benefit: |-
     The Social Housing Initiative serves both to stimulate
     the economy, and create affordable housing for some of our least advantaged citizens.
   :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/social-housing-initiative
+  :tweet: Allocated $6b to Social Housing (20,000 homes) #fairness
 - :code: homelessnesssupport
   :what: Provided $5b to Support for Homelessness
   :benefit: |-
@@ -438,12 +506,14 @@
     often find themselves between service systems. They have lost housing, cannot
     find work, may have chronic health conditions or been victims of repeated abuse or violence.
   :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/publications-articles/homelessness-general/homelessness-a-new-approach
+  :tweet: Provided $5b to Support for Homelessness #fairness
 - :code: affordablerent
   :what: Established National Rental Affordability Scheme ($4.5b)
   :benefit: |-
     A long term commitment by the Australian Government in partnership with the States
     and Territories, to invest in affordable rental housing for low income families.
   :url: http://www.fahcsia.gov.au/our-responsibilities/housing-support/programs-services/national-rental-affordability-scheme
+  :tweet: Established National Rental Affordability Scheme #fairness
 - :code: thegap
   :what: Introduced Closing the Gap to improve the lives of indigenous Australians
   :benefit: |-
@@ -453,6 +523,7 @@
     lower than the non-Indigenous population by approximately 11.5 years for males and
     9.7 years for females. This gap must be closed.
   :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/closing-the-gap
+  :tweet: Closing the Gap for indigenous Australians #fairness #firstaustralians
 - :code: recon
   :what: Preparing a pathway for Constitutional recognition of Indigenous Australians
   :benefit: |-
@@ -462,6 +533,7 @@
     the House of Representatives passed the Aboriginal and Torres Strait Islander
     Peoples Recognition Bill 2012.
   :url: http://www.fahcsia.gov.au/our-responsibilities/indigenous-australians/programs-services/recognition-respect/constitutional-recognition-of-indigenous-australians
+  :tweet: Towards Constitutional recog. of Indigenous Australians #firstaustralians
 - :code: penionsup
   :what: Provided the highest pension increase in 100 years
   :benefit: |-
@@ -472,6 +544,7 @@
     has delivered pension increases of around $207 per fortnight for single pensioners
     and around $236 per fortnight for pensioner couples combined, since September 2009.
   :url: http://www.fahcsia.gov.au/our-responsibilities/seniors/benefits-payments/more-pension-increases
+  :tweet: Provided the highest pension increase in 100 years #fairness
 - :code: newjobs900k
   :what: Created 900,000 new jobs
   :benefit: |-
@@ -480,12 +553,14 @@
     funded programs that contribute to the creation of new jobs in Australia, allowing
     the skills of almost all Australians to be properly valued.
   :url: http://ministers.deewr.gov.au/collins/address-australian-industry-group-personnel-and-ir-conference-canberra
+  :tweet: Created 900,000 new jobs #employment
 - :code: jobsboard
   :what: Established the National Jobs Board
   :benefit: |-
     In this highly mobile age it’s important to be able to look for work anywhere. The
     national jobs board allows employers to list jobs, and job-seekers to find them.
   :url: http://jobsearch.gov.au
+  :tweet: Established the National Jobs Board #employment
 - :code: skillstrainingup
   :what: Allocated $9b for skills and training over 5 years
   :benefit: |-
@@ -493,18 +568,21 @@
     a decent job in a higher-skills economy, and enables taxpayers to be assured
     of efficient and effective spending.
   :url: http://www.startupsmart.com.au/planning/9-billion-overhaul-for-inadequate-skills-training-system/201203195717.html
+  :tweet: Allocated $9b for skills and training over 5 years #employment #education
 - :code: econ
   :what: Established Enterprise Connect for small business
   :benefit: |-
     Offers comprehensive, confidential advice and support to eligible Australian
     small and medium businesses to help them transform and reach their full potential.
   :url: http://www.enterpriseconnect.gov.au/Pages/Home.aspx
+  :tweet: Established Enterprise Connect for small business #employment #smallbiz
 - :code: sbcom
   :what: Appointed Australia’s first Small Business Commissioner
   :benefit: |-
     The Commissioner provides information, assistance, advocacy and representation of
     small business interests within the Australian Government.
   :url: http://www.innovation.gov.au/SMALLBUSINESS/SMALLBUSINESSCOMMISSIONER/Pages/default.aspx
+  :tweet: Appointed Australia’s first Small Business Commissioner #smallbiz
 - :code: writeoffs
   :what: Introduced immediate write-off of assets costing less than $6,500 for small businesses
   :benefit: |-
@@ -512,6 +590,7 @@
     $6,500 in the income year in which they start to use the asset, or have it
     installed ready for use.
   :url: http://www.ato.gov.au/content/00286865.htm
+  :tweet: Immediate write-off of assets costing < $6,500 for small businesses #smallbiz
 - :code: writeoffcars
   :what: Introduced $5,000 immediate write-off for Small Business vehicles over $6,500
   :benefit: |-
@@ -519,12 +598,14 @@
     to calculate the deduction for a motor vehicle costing $6,500 or more that
     you start to use, or have installed ready for use, for a taxable purpose.
   :url: http://www.ato.gov.au/content/00307676.htm
+  :tweet: $5,000 immediate write-off for Small Business vehicles > $6,500 #smallbiz
 - :code: losscarry
   :what: Introduced Small business $1m loss carry-back for tax rebate from previous year
   :benefit: |-
     To help generally profitable small companies going through a temporary downturn
     the Tax Office now allows them to ‘carry back’ losses of up to $1 million.
   :url: http://www.mkttax.com.au/announcements/loss-carry-back-rules-announced
+  :tweet: Small business $1m loss carry-back for tax rebate from previous year #smallbiz
 - :code: consumerlaw
   :what: Legislated Australian Consumer law
   :benefit: |-
@@ -532,6 +613,7 @@
     consumer rights, product safety,  lay-by agreements, and unsolicited consumer
     agreements covering door-to-door sales and telephone sales.
   :url: http://www.consumerlaw.gov.au
+  :tweet: Legislated Australian Consumer law #fairness
 - :code: queenslandrecovery
   :what: Introduced a national levy to assist Queensland with reconstruction
   :benefit: |-
@@ -539,6 +621,7 @@
     and saddened by the loss of life that resulted. We all pitched in to help (as Queensland
     failed to insure itself against the damage), because that’s what mates do. Yo, way to go.
   :url: http://www.pm.gov.au/press-office/rebuilding-after-floods
+  :tweet: Introduced national levy to assist Queensland with reconstruction
 - :code: floodstandard
   :what: Standardised national definition of flood for insurance purposes
   :benefit: |-
@@ -546,6 +629,7 @@
     Flood damage in particular was loosely defined and inconsistent, which allowed
     many insurers to skip out on payments. The Government put a stop to that.
   :url: http://www.niba.com.au/html/40841.cfm
+  :tweet: Standardised national definition of flood for insurance purposes
 - :code: tourism2020
   :what: Created Tourism 2020
   :benefit: |-
@@ -555,6 +639,7 @@
     to remain competitive into the future. If it could convince hotels to offer free wifi
     too, that’d help.
   :url: http://www.ret.gov.au/tourism/policies/nltts/nltts/Pages/default.aspx
+  :tweet: Created Tourism 2020 #innovation
 - :code: hsrail
   :what: Completed Australia’s first feasibility study on high speed rail
   :benefit: |-
@@ -562,6 +647,7 @@
     networks, so why don’t we? The Government finally decided to take a look at this,
     and who knows, maybe in 20 years or so, I can get a train to Sydney that doesn’t suck.
   :url: http://www.infrastructure.gov.au/rail/trains/high_speed/index.aspx
+  :tweet: Australia’s first feasibility study on high speed rail #innovation
 - :code: ESCAS
   :what: |-
     Established the Exporter Supply Chain Assurance Scheme to provide traceability
@@ -572,7 +658,8 @@
     animal exporters to allow such cruelty to go on. Why? Because it was the right thing
     to do.
   :url: http://www.daff.gov.au/aqis/export/live-animals/livestock/escas
-- :code: kiddiefiddlers
+  :tweet: ESCAS — traceability & accountability for live animal exports
+- :code: royalcommircsa
   :what: Established a Royal Commission into Institutional Responses to Child Sexual Abuse
   :benefit: |-
     Some of our most vulnerable citizens have had their lives shattered by the very people
@@ -582,19 +669,22 @@
     policies, and practices to prevent, and better respond to child sexual abuse
     in institutions.
   :url: http://www.childabuseroyalcommission.gov.au
+  :tweet: Royal Commission into Institutional Responses to Child Sexual Abuse
 - :code: preventcrime
   :what: Established the National Crime Prevention Fund
   :benefit: |-
-     Crime costs Australians around $32 billion per year. The NCPF is a $40 million
-     component of the Australian Government’s package of measures to address gang
-     violence and street crime in the community.
+    Crime costs Australians around $32 billion per year. The NCPF is a $40 million
+    component of the Australian Government’s package of measures to address gang
+    violence and street crime in the community.
   :url: http://www.crimeprevention.gov.au
+  :tweet: Established the National Crime Prevention Fund
 - :code: lowertaxes
   :what: Lowered personal income taxes. The average family now pays $3,500 less p.a. than in 2007
   :benefit: |-
     The Government has put in place a series of major reforms to build a stronger,
     fairer, and simpler tax system that we all benefit from.
   :url: http://www.futuretax.gov.au
+  :tweet: Lowered personal income taxes #fairness #efficiency
 - :code: taxfreethresh
   :what: Raised the tax-free threshold from $6,000 to $18,200
   :benefit: |-
@@ -604,12 +694,14 @@
     Paradoxically this saves the Government millions too
     due to not having to process over a million small tax returns.
   :url: http://www.ato.gov.au/individuals/content.aspx?doc=/content/00322113.htm
+  :tweet: Raised the tax-free threshold from $6,000 to $18,200 #fairness #efficiency
 - :code: richestonearth
   :what: Australia is now the fifth richest per-capita nation in the known universe
   :benefit: |-
     While most of the rest of the world was going backwards, we surged forwards, becoming the
     envy of the modern world. We’ve literally never had it so good.
   :url: http://en.wikipedia.org/wiki/List_of_countries_by_GDP_(nominal)_per_capita
+  :tweet: Australia is now the 5th richest per-capita nation in the known universe
 - :code: aaarating
   :what: For the first time ever Australia has three triple A credit ratings from all three credit agencies
   :benefit: |-
@@ -617,6 +709,7 @@
     rates are lower, and our purchasing power is enhanced. It’s also another sign of just
     how well our economy has been managed by the Government.
   :url: http://www.treasurer.gov.au/DisplayDocs.aspx?doc=pressreleases/2013/051.htm&pageID=003&min=wms&Year=&DocType=0
+  :tweet: Australia has three AAA credit ratings from all three credit agencies #economy
 - :code: lowinfl
   :what: Record long-term low inflation rate
   :benefit: |-
@@ -625,6 +718,7 @@
     Historically, from 1951 until 2013, Australia’s Inflation Rate averaged 5.28%
     reaching an all time high of 23.90% in December of 1951.
   :url: http://www.tradingeconomics.com/australia/inflation-cpi
+  :tweet: Record long-term low inflation rate #economy
 - :code: lowinterest
   :what: Lowest interest rates in 60 years with the average mortgagee paying $5,000 less p.a. than in 2007
   :benefit: |-
@@ -635,6 +729,7 @@
     cheaper to invest in new housing and infrastructure,
     and the economy as a whole benefits.
   :url: http://www.tradingeconomics.com/australia/interest-rate
+  :tweet: Lowest interest rates in 60 years #economy
 - :code: lowunemployment
   :what: Record low unemployment
   :benefit: |-
@@ -642,6 +737,7 @@
     than ever before, meaning the nation as a whole is more productive, and we all have
     more disposable income.
   :url: http://www.tradingeconomics.com/australia/unemployment-rate
+  :tweet: Record low unemployment #economy #jobs
 - :code: lowdebtoedc
   :what: Lowest debt to GDP ratio in the OECD
   :benefit: |-
@@ -650,6 +746,7 @@
     was cheap, and funding a range of economic stimulus packages, the Government avoided
     the global economic crisis that ravaged much of the rest of the world.
   :url: http://www.gfmag.com/component/content/article/119-economic-data/12370-public-debt-percentage-gdp.html#axzz2WNMe2tM2
+  :tweet: Lowest debt to GDP ratio in the OECD #economy
 - :code: tradeddollar
   :what: The Australian Dollar is now fifth most traded in the world and is an IMF Reserve Currency
   :benefit: |-
@@ -659,47 +756,55 @@
     heavily a currency is traded, the more stable that currency becomes, meaning lower
     risk for foreign investors.
   :url: http://www.rba.gov.au/mkt-operations/intl-mkt-oper.html
+  :tweet: Aussie Dollar now 5th most traded in the world & IMF Reserve Currency #economy
 - :code: bestperf
   :what: One of the world’s best performing economies during and since the global financial crisis
   :benefit: |-
     While much of the world slid into economic chaos, the Australian economy continued to
     grow and Australians prospered.
   :url: http://www.doingbusiness.org/rankings
+  :tweet: One of world’s strongest economies during & since the GFC #economy
 - :code: lsr
   :what: Australia now highest ranked for low Sovereign Risk
   :benefit: |-
     International investors can invest with confidence in Australia, meaning that the
     cost of their investments here is lower than in other countries with higher sovereign risk.
   :url: http://www.efic.gov.au/country/countryprofiles/Pages/countryprofiles.aspx
+  :tweet: Australia now highest ranked for low Sovereign Risk #economy
 - :code: tight
   :what: Overseen the largest fiscal tightening in Australia’s history (4.4%)
   :benefit: |-
     The Government has remained committed to reining in expenditure, even during these
     good economic times.  This is just common sense. Thrift is good, even in boom times.
   :url: http://www.switzer.com.au/business-news/news-stories/an-imf-view-of-the-australian-budget/
+  :tweet: Overseen the largest fiscal tightening in Australia’s history #economy
 - :code: econgrow
   :what: 21 years of continuous economic growth
   :benefit: |-
-     The Australian economy has grown at a sustainable 3% per annum for the last 21 years.
-     This is unparalleled anywhere in the world.
+    The Australian economy has grown at a sustainable 3% per annum for the last 21 years.
+    This is unparalleled anywhere in the world.
   :url: http://www.treasurer.gov.au/wmsDisplayDocs.aspx?doc=economicnotes/2012/033.htm&pageID=012&min=wms&Year=&DocType=4
+  :tweet: 21 years of continuous economic growth #economy
 - :code: wagesgrowth
   :what: 11 years of continuous wages growth exceeding CPI
-  :benefit: |-
-    For the last 11 years wages have grown faster than inflation. Speaks for itself really.
+  :benefit: For the last 11 years wages have grown faster than inflation. Speaks for
+    itself really.
   :url: http://www.abs.gov.au/ausstats/abs@.nsf/mf/6345.0
+  :tweet: 11 years of continuous wages growth exceeding CPI #economy
 - :code: produp
   :what: Increasing Productivity
   :benefit: |-
     Australian economic productivity has continued to improve, meaning a higher standard of
     living for all Australians.
   :url: http://www.rba.gov.au/speeches/2013/sp-dg-190313.html
+  :tweet: Increasing Productivity #economy
 - :code: comcon
   :what: Increasing Consumer Confidence
   :benefit: |-
     The more confident we are at buying stuff, the more stuff we buy, and thus the
     more money we all make, or something like that.
   :url: http://www.tradingeconomics.com/australia/consumer-confidence
+  :tweet: Increasing Consumer Confidence #economy
 - :code: foreigninvest
   :what: Record foreign investment
   :benefit: |-
@@ -707,6 +812,7 @@
     even though we still don’t seem to like foreigners themselves much. Can’t blame the
     Government for that though. We are a nation of racist dickheads much of the time.
   :url: http://nprco.com.au/nprco-blog/2013/4/3/foreign-investment-in-australia-at-record-levels
+  :tweet: Record foreign investment #economy
 - :code: china
   :what: Historic levels of Chinese / Australian bilateral relations
   :benefit: |-
@@ -714,6 +820,7 @@
     to our own economic growth. We may not like what they’ve done to Tibet, but we’ll
     turn a blind eye to it if it’s going to keep making us money.
   :url: http://www.confuciusinstitute.unsw.edu.au/celebrating-40-years-of-diplomatic-relations-between-australia-and-china/
+  :tweet: Historic levels of Chinese / Australian bilateral relations #trade
 - :code: fempm
   :what: Australia’s first female Prime Minister
   :benefit: |-
@@ -722,6 +829,7 @@
     brought the red-necks out of the woodwork, and she’s copped more abuse for being
     a woman than is fair.
   :url: http://annesummers.com.au/speeches/her-rights-at-work-r-rated/
+  :tweet: Australia’s first female Prime Minister #destroythejoint
 - :code: femgg
   :what: First female Governor General
   :benefit: |-
@@ -730,6 +838,7 @@
     and girls all over Australia that it is possible for a woman to achieve high office
     in this country.
   :url: http://www.gg.gov.au/speech/address-governor-general-ms-quentin-bryce-ac-occasion-opening-first-session-forty-third
+  :tweet: First female Governor General #destroythejoint
 - :code: femag
   :what: First female Attorney General
   :benefit: |-
@@ -739,28 +848,32 @@
     ambition to unleash a fairer Australia on the world, expanding civil rights,
     and reducing poverty and inequality.
   :url: http://www.themonthly.com.au/issue/2012/june/1342583315/anne-summers/protector
+  :tweet: First female Attorney General #destroythejoint
 - :code: forgot
   :what: The National Apology to Forgotten Australians and Former Child Migrants
   :benefit: |-
-    It is estimated that 500,000 children experienced institutional care in Australia
-    in the twentieth century. 
-    Many of these children were horribly mistreated, never achieved due justice
-    as adults, and continue to suffer from debilitating depression and post-traumatic
-    stress disorder, and remain financially and socially disenfranchised.
+    It is estimated that 500,000 children experienced institutional care
+    in Australia in the twentieth century.  Many of these children were horribly
+    mistreated, never achieved due justice as adults, and continue to suffer from
+    debilitating depression and post-traumatic stress disorder, and remain financially
+    and socially disenfranchised.
   :url: http://www.fahcsia.gov.au/our-responsibilities/families-and-children/programs-services/apology-to-the-forgotten-australians-and-former-child-migrants
+  :tweet: National Apology to Forgotten Australians & Former Child Migrants
 - :code: behremining1
-  :what: Australia is now ranked as the number 1 country for mining investment
+  :what: Australia is now ranked as the number one country for mining investment
   :benefit: |-
     Based on indicators such as political and economic risk, social issues, bureaucratic
     hassles, currency stability, and taxation policy, Behre Dolbear Group Inc now considers
     Australia to be the best place in the world for mining investment.
   :url: http://www.dolbear.com/announcements/2013-ranking-of-countries-for-mining-investment-or-where-not-to-invest
+  :tweet: Australia is now the number 1 country for mining investment #economy
 - :code: free3
   :what: Australia is the third ‘most free’ nation in the Heritage Index of Economic Freedom
   :benefit: |-
     It’s easy, safe, and consequently cheaper to do business in Australia than almost anywhere
     else in the region.
   :url: http://www.heritage.org/index/country/australia
+  :tweet:  Australia 3rd ‘most free’ nation in Heritage Index of Economic Freedom
 - :code: blackrock
   :what: Australia now has the seventh least risky government to lend to in the world
   :benefit: |-
@@ -768,6 +881,7 @@
     is considered one of the world’s best debtors. That means we can borrow money
     more cheaply, meaning we can invest more effectively in our own infrastructure.
   :url: http://www.blackrock.com/corporate/en-us/literature/whitepaper/mapping-sovereign-risk-bsri-q4-update-us.pdf
+  :tweet: Australia now has the 7th least risky government to lend to in the world
 - :code: forcedmarriage
   :what: Introduced laws to tackle forced marriage, people trafficking and other exploitation
   :benefit: |-
@@ -776,6 +890,7 @@
     which means that labour exploitation can be prosecuted wherever it occurs, including
     where the victim is not moved across a border.
   :url: http://www.attorneygeneral.gov.au/Mediareleases/Pages/2013/First%20quarter/27February2013-Newlawstackleforcedmarriagepeopletraffickingandotherexploitation.aspx
+  :tweet: New laws to tackle forced marriage, people trafficking & other exploitation
 - :code: butleryay
   :what: The Minister for Mental Health and Ageing (Butler), honoured with the Alzheimer’s Disease International Award
   :benefit: |-
@@ -783,3 +898,4 @@
     commitment to improving the lives of people living with dementia, has been recognised
     internationally. This boosts Australia’s international reputation and benefits us all.
   :url: http://www.fightdementia.org.au/international-recognition-for-mark-butlers-dementia-leadership.aspx
+  :tweet: Minister @Mark_Butler_MP awarded Alzheimer’s Disease International Award
